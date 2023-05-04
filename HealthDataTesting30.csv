@@ -1,0 +1,1457 @@
+"","id","gender","age","hypertension","heart_disease","ever_married","work_type","Residence_type","avg_glucose_level","bmi","smoking_status","stroke"
+"2",31112,"Male",80,0,1,1,"Private","Rural",10592,32.5,"never smoked",1
+"3",60182,"Female",49,0,0,1,"Private","Urban",17123,34.4,"smokes",1
+"7",10434,"Female",69,0,0,0,"Private","Urban",9439,22.8,"never smoked",1
+"11",12175,"Female",54,0,0,1,"Private","Urban",10451,27.3,"smokes",1
+"12",5317,"Female",79,0,1,1,"Private","Urban",21409,28.2,"never smoked",1
+"13",58202,"Female",50,1,0,1,"Self-employed","Rural",16741,30.9,"never smoked",1
+"16",27458,"Female",60,0,0,0,"Private","Urban",8922,37.8,"never smoked",1
+"17",70630,"Female",71,0,0,1,"Govt_job","Rural",19394,22.4,"smokes",1
+"27",39373,"Female",82,1,0,1,"Self-employed","Urban",19692,22.2,"never smoked",1
+"31",47269,"Male",74,0,0,1,"Private","Rural",21972,33.7,"formerly smoked",1
+"33",47306,"Male",58,0,0,0,"Private","Rural",9262,32,"Unknown",1
+"37",61960,"Male",82,0,1,1,"Private","Urban",1449,26.4,"smokes",1
+"40",47472,"Female",58,0,0,1,"Private","Urban",10726,38.6,"formerly smoked",1
+"44",47167,"Female",77,1,0,1,"Self-employed","Urban",12413,31.4,"never smoked",1
+"49",10710,"Female",56,0,0,1,"Private","Urban",18517,40.4,"formerly smoked",1
+"52",19557,"Female",45,0,0,1,"Private","Rural",9372,30.2,"formerly smoked",1
+"55",72366,"Male",76,0,0,1,"Private","Urban",10447,20.3,"Unknown",1
+"64",71673,"Female",79,0,0,1,"Private","Urban",11085,24.1,"formerly smoked",1
+"69",32399,"Male",54,0,0,1,"Private","Rural",9697,29.1,"smokes",1
+"76",66315,"Female",57,0,0,0,"Self-employed","Urban",6802,37.5,"never smoked",1
+"77",37726,"Female",80,1,0,1,"Self-employed","Urban",6856,26.2,"Unknown",1
+"82",8154,"Male",57,1,0,1,"Govt_job","Urban",7892,27.7,"formerly smoked",1
+"84",12363,"Male",64,0,1,1,"Govt_job","Urban",741,28.8,"Unknown",1
+"85",63973,"Female",77,0,0,1,"Govt_job","Rural",19032,31.4,"never smoked",1
+"87",4712,"Female",81,0,1,1,"Self-employed","Rural",787,19.4,"Unknown",1
+"89",42072,"Female",50,1,0,1,"Private","Rural",7318,30.3,"formerly smoked",1
+"96",71639,"Female",68,0,0,0,"Govt_job","Urban",821,27.1,"Unknown",1
+"100",31720,"Female",38,0,0,0,"Self-employed","Urban",8228,24,"formerly smoked",1
+"103",72918,"Female",53,1,0,1,"Private","Urban",6255,30.3,"Unknown",1
+"105",44033,"Male",56,1,0,1,"Private","Rural",24931,35.8,"never smoked",1
+"108",37132,"Male",82,0,0,1,"Govt_job","Urban",20059,29,"formerly smoked",1
+"109",53440,"Female",73,1,0,1,"Private","Rural",19014,36.5,"never smoked",1
+"122",17308,"Female",72,1,0,1,"Private","Urban",22179,30,"never smoked",1
+"124",62861,"Female",78,0,0,1,"Private","Urban",6729,24.6,"never smoked",1
+"127",46703,"Male",68,0,1,1,"Private","Urban",22383,31.9,"formerly smoked",1
+"129",12482,"Male",68,0,0,1,"Self-employed","Urban",7782,27.5,"smokes",1
+"131",24669,"Female",77,0,1,1,"Private","Rural",23156,36.9,"never smoked",1
+"134",66258,"Female",71,0,0,1,"Self-employed","Urban",19571,34.1,"formerly smoked",1
+"136",20426,"Female",78,1,0,0,"Private","Urban",20387,45.7,"never smoked",1
+"138",42899,"Male",78,0,0,1,"Self-employed","Urban",13319,23.6,"formerly smoked",1
+"139",63453,"Female",56,0,0,1,"Govt_job","Rural",16223,27.3,"Unknown",1
+"140",44993,"Female",79,1,0,0,"Govt_job","Urban",9802,22.3,"formerly smoked",1
+"145",62466,"Female",80,0,0,1,"Private","Urban",6444,45,"never smoked",1
+"155",30184,"Male",82,0,0,1,"Private","Rural",8662,29.5,"formerly smoked",1
+"156",24905,"Female",65,0,0,1,"Private","Urban",20577,46,"formerly smoked",1
+"168",62019,"Male",54,0,0,1,"Govt_job","Rural",8785,31.1,"smokes",1
+"170",37060,"Female",81,0,0,1,"Private","Rural",8013,23.4,"never smoked",1
+"171",35578,"Male",78,0,0,0,"Self-employed","Urban",9019,26.9,"never smoked",1
+"177",66866,"Female",48,0,0,1,"Private","Urban",7411,20.5,"never smoked",1
+"187",8899,"Male",49,0,0,0,"Private","Rural",10486,31.9,"smokes",1
+"190",31154,"Female",39,0,0,1,"Self-employed","Urban",9776,29.6,"smokes",1
+"193",12917,"Female",79,0,0,1,"Private","Urban",9773,21.5,"smokes",1
+"198",28493,"Male",57,0,0,1,"Private","Urban",863,31.7,"Unknown",1
+"199",36857,"Male",77,0,0,1,"Self-employed","Rural",16214,32.6,"formerly smoked",1
+"204",45535,"Male",68,0,0,1,"Private","Rural",23394,42.4,"never smoked",1
+"205",40460,"Female",68,1,1,1,"Private","Urban",24751,40.5,"formerly smoked",1
+"206",17739,"Male",57,0,0,1,"Private","Rural",8496,36.7,"Unknown",1
+"207",49669,"Female",14,0,0,0,"children","Rural",5793,30.9,"Unknown",1
+"215",32257,"Female",47,0,0,1,"Private","Urban",21095,50.1,"Unknown",0
+"220",10460,"Female",79,0,0,1,"Govt_job","Urban",7708,35,"Unknown",0
+"221",64908,"Male",79,0,1,1,"Private","Urban",5708,22,"formerly smoked",0
+"223",37893,"Female",37,0,0,1,"Private","Rural",735,26.1,"formerly smoked",0
+"224",67855,"Female",40,0,0,1,"Private","Rural",9504,42.4,"never smoked",0
+"230",29217,"Female",65,1,0,1,"Private","Rural",757,41.8,"Unknown",0
+"234",48588,"Female",59,0,0,1,"Private","Urban",10982,23.7,"never smoked",0
+"235",70336,"Female",25,0,0,1,"Private","Urban",6084,24.5,"never smoked",0
+"236",66767,"Female",67,0,0,1,"Govt_job","Rural",9461,28.4,"smokes",0
+"246",65460,"Female",32,0,0,1,"Private","Rural",626,25.1,"formerly smoked",0
+"247",36811,"Female",23,0,0,0,"Private","Urban",9409,30.9,"never smoked",0
+"253",44338,"Female",16,0,0,0,"children","Rural",11063,19.5,"Unknown",0
+"256",71379,"Female",45,0,0,1,"Govt_job","Urban",11363,27.5,"smokes",0
+"261",65199,"Female",53,0,0,1,"Self-employed","Urban",8151,28.5,"Unknown",0
+"265",41648,"Male",27,0,0,1,"Private","Rural",10264,26.4,"smokes",0
+"266",49003,"Male",43,0,0,1,"Private","Urban",14601,31.5,"smokes",0
+"270",66174,"Male",46,0,0,1,"Self-employed","Rural",8819,29.3,"formerly smoked",0
+"285",30171,"Male",27,0,0,0,"Govt_job","Urban",951,24.3,"formerly smoked",0
+"293",21130,"Male",33,0,0,1,"Self-employed","Urban",22992,25.9,"smokes",0
+"295",16934,"Female",51,0,0,1,"Self-employed","Rural",8984,29.9,"Unknown",0
+"301",10449,"Female",24,0,0,1,"Private","Urban",7523,29,"never smoked",0
+"303",45053,"Male",64,0,0,1,"Govt_job","Urban",23964,34.6,"formerly smoked",0
+"305",9487,"Female",23,0,0,0,"Private","Urban",9992,25.8,"never smoked",0
+"307",17608,"Female",55,0,0,1,"Govt_job","Urban",11882,29,"formerly smoked",0
+"308",28102,"Female",25,0,0,0,"Private","Rural",663,27.2,"never smoked",0
+"309",1506,"Female",48,0,0,0,"Govt_job","Urban",10141,20.7,"smokes",0
+"314",21284,"Female",32,0,0,1,"Private","Urban",9809,25.2,"smokes",0
+"317",42996,"Female",36,0,0,0,"Govt_job","Rural",12682,23.3,"never smoked",0
+"330",43232,"Female",18,0,0,0,"Private","Urban",8005,24.2,"never smoked",0
+"331",10159,"Male",41,0,0,1,"Private","Urban",998,31.6,"never smoked",0
+"334",64489,"Male",56,0,0,1,"Govt_job","Rural",7302,31.1,"never smoked",0
+"344",13547,"Female",37,0,0,1,"Private","Urban",9172,29.2,"never smoked",0
+"347",10504,"Male",55,0,0,1,"Govt_job","Rural",974,44.6,"formerly smoked",0
+"350",9637,"Male",26,0,0,1,"Private","Rural",12031,22.3,"smokes",0
+"353",5708,"Female",20,0,0,0,"Private","Urban",916,28.1,"never smoked",0
+"359",65357,"Female",5,0,0,0,"children","Rural",8459,17.7,"Unknown",0
+"364",37031,"Female",78,0,1,1,"Govt_job","Urban",7021,24.8,"never smoked",0
+"372",46468,"Female",38,0,0,1,"Self-employed","Urban",14748,40.5,"Unknown",0
+"374",51983,"Female",33,0,0,1,"Private","Rural",7116,46.5,"smokes",0
+"375",27029,"Female",3,0,0,0,"children","Urban",732,16.8,"Unknown",0
+"389",53144,"Female",52,0,1,1,"Private","Urban",7279,54.7,"never smoked",0
+"410",23221,"Male",29,0,0,0,"Private","Urban",8351,37.1,"never smoked",0
+"411",31830,"Male",59,0,0,1,"Self-employed","Urban",8646,30.5,"Unknown",0
+"412",15296,"Female",42,0,0,1,"Private","Rural",11206,38.2,"never smoked",0
+"423",621,"Male",69,0,0,1,"Private","Rural",10152,26.8,"smokes",0
+"424",1307,"Female",61,1,0,1,"Private","Rural",17005,60.2,"smokes",0
+"425",35846,"Female",43,1,0,0,"Self-employed","Rural",2173,27.5,"never smoked",0
+"426",28645,"Female",38,1,0,1,"Private","Urban",19601,28.1,"never smoked",0
+"427",5835,"Male",68,0,0,1,"Private","Urban",9221,27.3,"Unknown",0
+"436",11974,"Male",11,0,0,0,"children","Urban",8258,25.5,"Unknown",0
+"437",3009,"Female",53,0,0,1,"Self-employed","Rural",9688,31.4,"Unknown",0
+"441",67548,"Female",31,0,0,1,"Private","Urban",9899,31.2,"never smoked",0
+"446",50965,"Male",53,0,0,0,"Private","Rural",6524,28.9,"Unknown",0
+"453",37832,"Female",14,0,0,0,"children","Rural",12953,21.3,"never smoked",0
+"456",34668,"Female",56,0,0,1,"Private","Urban",7749,36,"formerly smoked",0
+"458",6072,"Female",57,0,0,1,"Private","Urban",9418,27.1,"never smoked",0
+"459",51112,"Male",29,0,0,1,"Self-employed","Urban",1187,33.2,"Unknown",0
+"462",63958,"Female",42,0,0,1,"Private","Urban",9699,34.8,"formerly smoked",0
+"463",34511,"Female",71,0,0,1,"Private","Rural",10061,19.2,"Unknown",0
+"473",33123,"Female",68,0,0,1,"Self-employed","Rural",10438,40.8,"formerly smoked",0
+"474",21713,"Male",49,0,0,1,"Private","Urban",10291,24.7,"Unknown",0
+"476",6726,"Female",31,0,0,1,"Private","Urban",7331,45,"never smoked",0
+"478",9729,"Male",70,0,0,1,"Private","Urban",10264,28.3,"never smoked",0
+"479",56974,"Female",38,0,0,1,"Govt_job","Urban",7092,41.6,"never smoked",0
+"481",65574,"Female",54,0,0,1,"Private","Urban",12916,32.4,"never smoked",0
+"482",17019,"Female",30,0,0,1,"Govt_job","Urban",11385,34,"never smoked",0
+"485",6855,"Male",72,1,0,1,"Self-employed","Urban",11401,31.8,"formerly smoked",0
+"486",5374,"Male",23,0,0,0,"Private","Rural",9374,31.2,"never smoked",0
+"491",14712,"Male",57,0,0,1,"Private","Urban",8944,26.7,"never smoked",0
+"496",63606,"Male",29,0,0,1,"Govt_job","Urban",6034,29.6,"formerly smoked",0
+"498",65144,"Female",57,0,0,1,"Self-employed","Urban",9844,33.6,"Unknown",0
+"499",545,"Male",42,0,0,1,"Private","Rural",21048,71.9,"never smoked",0
+"502",20751,"Female",26,0,0,1,"Private","Rural",7529,22.6,"smokes",0
+"509",60902,"Male",5,0,0,0,"children","Rural",7143,19.3,"Unknown",0
+"513",29010,"Male",5,0,0,0,"children","Rural",10052,17.2,"Unknown",0
+"514",36561,"Female",39,0,0,1,"Govt_job","Rural",19147,28.3,"never smoked",0
+"515",44912,"Male",12,0,0,0,"children","Urban",6706,16.1,"Unknown",0
+"516",59829,"Male",67,0,1,1,"Private","Urban",1441,27.6,"never smoked",0
+"517",45238,"Female",18,0,0,0,"children","Urban",5826,16.5,"Unknown",0
+"518",47811,"Female",72,0,0,1,"Self-employed","Urban",23982,35.8,"never smoked",0
+"519",61511,"Female",32,0,0,0,"children","Rural",7371,16.2,"Unknown",0
+"520",55424,"Female",64,1,0,1,"Private","Rural",8853,24.6,"never smoked",0
+"525",17148,"Male",57,0,0,1,"Private","Urban",18957,30.7,"never smoked",0
+"528",58007,"Female",36,0,0,1,"Private","Urban",8788,34.7,"smokes",0
+"529",15095,"Male",18,0,0,0,"Private","Urban",11217,31.7,"Unknown",0
+"530",11960,"Male",45,0,0,1,"Private","Rural",9997,35.6,"never smoked",0
+"540",50118,"Female",65,0,1,1,"Private","Rural",19636,34.5,"formerly smoked",0
+"541",55420,"Female",42,0,0,0,"Private","Rural",13977,27.7,"Unknown",0
+"547",31988,"Female",56,0,0,1,"Private","Urban",10083,26.8,"never smoked",0
+"549",45585,"Female",63,1,0,1,"Private","Urban",10595,23.5,"smokes",0
+"552",31090,"Male",15,0,0,0,"children","Rural",2055,24.2,"never smoked",0
+"553",64174,"Female",59,1,0,1,"Private","Urban",20486,30.8,"never smoked",0
+"557",61408,"Male",23,0,0,0,"Never_worked","Urban",12526,18.7,"never smoked",0
+"558",33552,"Male",31,0,0,1,"Private","Rural",11432,27.7,"smokes",0
+"560",7446,"Male",44,0,0,1,"Private","Urban",8351,31.2,"never smoked",0
+"561",9906,"Female",18,0,0,0,"children","Urban",10234,17,"Unknown",0
+"565",30753,"Male",42,0,0,1,"Govt_job","Urban",9379,27.2,"never smoked",0
+"575",42553,"Female",80,0,0,1,"Private","Rural",14891,28.3,"never smoked",0
+"576",39601,"Female",33,0,0,1,"Private","Urban",694,47.8,"never smoked",0
+"577",46891,"Female",74,0,0,1,"Private","Rural",6834,39.3,"Unknown",0
+"579",21886,"Female",40,0,0,1,"Private","Urban",712,27.1,"never smoked",0
+"582",48144,"Female",20,0,0,0,"Govt_job","Rural",73,20.8,"never smoked",0
+"586",36355,"Male",58,0,0,1,"Govt_job","Rural",11173,34.6,"never smoked",0
+"588",2532,"Male",28,0,0,0,"Private","Rural",8579,26.7,"Unknown",0
+"589",52512,"Male",57,0,0,1,"Private","Rural",9854,30.2,"never smoked",0
+"591",3130,"Female",56,0,0,1,"Private","Rural",11243,54.6,"never smoked",0
+"594",34363,"Female",27,0,0,1,"Private","Urban",9512,27,"never smoked",0
+"604",10139,"Female",54,0,0,1,"Self-employed","Urban",9239,22.1,"never smoked",0
+"610",54866,"Female",9,0,0,0,"children","Rural",5727,28,"Unknown",0
+"611",20364,"Female",4,0,0,0,"children","Urban",10725,12,"Unknown",0
+"622",66184,"Male",40,0,0,1,"Govt_job","Rural",10026,26,"Unknown",0
+"625",54338,"Female",58,0,0,1,"Govt_job","Rural",7746,27.6,"never smoked",0
+"629",67932,"Female",48,0,0,1,"Private","Rural",7574,28.8,"smokes",0
+"632",54182,"Female",16,0,0,0,"Private","Rural",7498,21.4,"never smoked",0
+"633",61300,"Male",20,0,0,0,"Private","Urban",5525,20.4,"never smoked",0
+"637",27012,"Male",32,0,0,0,"Private","Urban",9434,30.2,"formerly smoked",0
+"640",5892,"Female",55,1,0,1,"Private","Rural",9982,34.2,"never smoked",0
+"642",43196,"Female",52,0,0,1,"Self-employed","Urban",5954,42.2,"Unknown",0
+"643",12593,"Female",18,0,0,0,"Private","Urban",8033,19.7,"never smoked",0
+"648",58767,"Female",37,0,0,1,"Private","Urban",9145,25.8,"Unknown",0
+"650",22321,"Female",44,0,0,1,"Private","Urban",12406,20.8,"never smoked",0
+"651",38184,"Female",79,1,0,1,"Private","Rural",9947,28.4,"never smoked",0
+"656",63409,"Female",49,0,0,1,"Private","Urban",6371,33.8,"smokes",0
+"662",47523,"Female",37,0,0,0,"Self-employed","Rural",13439,22.7,"formerly smoked",0
+"667",60665,"Male",29,0,0,0,"Private","Urban",5926,35.8,"smokes",0
+"670",22485,"Male",56,0,0,1,"Private","Urban",1971,43.6,"formerly smoked",0
+"679",16575,"Male",17,0,0,0,"Private","Rural",9492,23.5,"never smoked",0
+"684",3325,"Male",30,0,0,1,"Self-employed","Rural",9501,32.3,"smokes",0
+"694",44583,"Female",56,0,1,1,"Private","Rural",7002,32.3,"never smoked",0
+"697",60810,"Male",46,0,0,1,"Self-employed","Urban",5583,26.4,"never smoked",0
+"702",13367,"Female",35,0,0,1,"Private","Rural",8269,29.1,"Unknown",0
+"710",40055,"Female",17,0,0,0,"Private","Rural",17343,25.6,"smokes",0
+"715",62382,"Male",82,0,0,1,"Private","Urban",10577,29.5,"Unknown",0
+"721",26973,"Female",31,0,0,1,"Private","Urban",10651,40.2,"never smoked",0
+"732",31956,"Female",58,0,0,1,"Private","Urban",7699,29,"never smoked",0
+"735",13683,"Female",31,0,0,1,"Private","Urban",10968,41.8,"never smoked",0
+"736",7387,"Female",59,1,0,1,"Private","Rural",9204,24.2,"never smoked",0
+"738",22384,"Female",24,0,0,1,"Private","Rural",9792,23.1,"never smoked",0
+"740",50053,"Male",17,0,0,0,"Private","Urban",6237,41.3,"never smoked",0
+"741",69427,"Female",29,0,0,0,"Private","Urban",10128,22.7,"never smoked",0
+"742",21688,"Female",42,0,0,1,"Private","Rural",8831,24,"smokes",0
+"748",51125,"Female",66,0,0,1,"Private","Urban",897,34.9,"smokes",0
+"751",58291,"Female",52,0,0,1,"Private","Rural",798,32.3,"formerly smoked",0
+"754",55529,"Male",39,0,0,1,"Private","Rural",11432,26.4,"never smoked",0
+"758",23016,"Male",55,0,0,1,"Private","Rural",866,26.5,"never smoked",0
+"759",18412,"Male",41,0,0,1,"Private","Rural",8232,27.9,"Unknown",0
+"763",14491,"Male",38,0,0,1,"Govt_job","Urban",7053,40.9,"smokes",0
+"764",64582,"Male",40,1,0,1,"Govt_job","Rural",21201,28.4,"never smoked",0
+"765",25514,"Male",12,0,0,0,"children","Rural",6588,23.7,"Unknown",0
+"767",66220,"Male",53,0,0,1,"Private","Urban",12635,25.2,"never smoked",0
+"769",25458,"Female",70,1,0,1,"Govt_job","Rural",8866,36.7,"formerly smoked",0
+"770",69645,"Male",61,0,0,1,"Govt_job","Rural",11295,22.2,"formerly smoked",0
+"774",67078,"Female",36,1,0,1,"Private","Urban",9156,42.2,"never smoked",0
+"775",32352,"Female",31,0,0,1,"Govt_job","Rural",10455,26.4,"never smoked",0
+"776",22540,"Female",65,0,0,1,"Govt_job","Urban",8484,39.4,"Unknown",0
+"777",26999,"Male",61,1,1,1,"Govt_job","Rural",8606,34.8,"never smoked",0
+"778",65218,"Male",2,0,0,0,"children","Rural",1091,20,"Unknown",0
+"780",49521,"Female",33,0,0,1,"Private","Urban",12104,31.4,"Unknown",0
+"785",33410,"Female",39,0,0,0,"Govt_job","Urban",7944,22.7,"never smoked",0
+"786",39375,"Female",40,0,0,1,"Private","Rural",11952,34.6,"never smoked",0
+"795",49949,"Male",44,0,0,1,"Private","Urban",5847,24.4,"never smoked",0
+"803",45759,"Female",32,0,0,1,"Private","Rural",9198,27.6,"smokes",0
+"807",40970,"Male",43,0,0,1,"Private","Urban",13575,35.9,"smokes",0
+"809",11709,"Male",71,0,0,0,"Private","Urban",9508,31.5,"never smoked",0
+"812",13907,"Male",65,0,0,1,"Self-employed","Rural",9464,28.6,"never smoked",0
+"820",60957,"Male",45,0,0,1,"Private","Rural",7301,24.8,"formerly smoked",0
+"822",10782,"Female",3,0,0,0,"children","Rural",8063,15.9,"Unknown",0
+"824",13571,"Male",58,0,0,1,"Govt_job","Urban",19404,27.8,"never smoked",0
+"827",24099,"Male",17,0,0,0,"Private","Rural",6849,33.2,"never smoked",0
+"834",72310,"Male",80,1,1,1,"Self-employed","Urban",8431,30.3,"smokes",0
+"840",48755,"Male",27,0,0,1,"Private","Rural",10448,36.4,"smokes",0
+"842",62716,"Female",59,0,0,1,"Self-employed","Urban",8164,32.8,"Unknown",0
+"846",47950,"Female",49,0,0,1,"Self-employed","Urban",5976,29.7,"Unknown",0
+"848",9262,"Female",31,0,0,1,"Private","Rural",7626,35.6,"never smoked",0
+"849",71896,"Female",68,0,0,1,"Private","Rural",8206,35.2,"formerly smoked",0
+"851",26503,"Female",32,0,0,0,"Private","Rural",7716,35.2,"smokes",0
+"858",67864,"Male",63,0,0,1,"Private","Rural",5782,28.8,"formerly smoked",0
+"863",32554,"Female",16,0,0,0,"children","Rural",10902,19.8,"Unknown",0
+"866",57879,"Female",74,0,0,1,"Private","Urban",8711,24.8,"never smoked",0
+"876",6988,"Female",52,0,0,1,"Self-employed","Urban",11321,38.3,"never smoked",0
+"877",25287,"Male",54,0,0,1,"Private","Urban",9295,41,"never smoked",0
+"892",57372,"Male",1,0,0,0,"children","Rural",12321,15.1,"Unknown",0
+"894",13622,"Male",6,0,0,0,"children","Rural",9298,18.9,"Unknown",0
+"895",12686,"Male",50,0,0,0,"Govt_job","Rural",9281,26.6,"never smoked",0
+"898",59684,"Female",3,0,0,0,"children","Urban",6515,15.1,"Unknown",0
+"900",56986,"Male",17,0,0,0,"Never_worked","Urban",11325,23.4,"never smoked",0
+"901",47924,"Male",24,0,0,0,"Private","Urban",5928,43.2,"never smoked",0
+"902",16402,"Female",5,0,0,0,"children","Urban",9307,19.1,"Unknown",0
+"904",4083,"Female",30,0,0,0,"Private","Rural",7369,17.3,"never smoked",0
+"905",59336,"Male",66,1,0,1,"Private","Rural",749,32.1,"never smoked",0
+"906",48843,"Female",27,0,0,0,"Private","Urban",5839,30.4,"never smoked",0
+"907",5694,"Male",21,0,0,0,"Private","Rural",10205,29.9,"never smoked",0
+"909",44481,"Female",19,0,0,0,"Private","Rural",7284,22.7,"never smoked",0
+"911",9648,"Female",71,0,1,1,"Private","Urban",17095,35.2,"never smoked",0
+"917",59178,"Female",7,0,0,0,"children","Urban",8675,22.3,"Unknown",0
+"920",55599,"Female",9,0,0,0,"children","Rural",6987,18,"Unknown",0
+"921",45224,"Female",46,0,0,1,"Private","Rural",10922,20.1,"never smoked",0
+"922",54747,"Male",88,0,0,0,"children","Rural",15757,19.2,"Unknown",0
+"934",24174,"Female",50,0,0,1,"Govt_job","Rural",12445,24.6,"never smoked",0
+"936",53279,"Male",24,0,0,0,"children","Rural",11887,16.3,"Unknown",0
+"938",37830,"Female",29,0,0,0,"Private","Urban",7367,21,"Unknown",0
+"944",44978,"Male",39,0,0,1,"Govt_job","Rural",7249,44.9,"formerly smoked",0
+"949",62187,"Male",9,0,0,0,"children","Urban",13189,25.5,"Unknown",0
+"951",8521,"Male",71,0,0,1,"Private","Rural",22791,31.6,"formerly smoked",0
+"953",45824,"Female",77,1,0,1,"Self-employed","Urban",10201,29.5,"Unknown",0
+"956",62668,"Female",51,0,0,1,"Self-employed","Urban",14315,44.7,"formerly smoked",0
+"958",17437,"Female",63,0,0,1,"Self-employed","Rural",856,25.9,"Unknown",0
+"967",49265,"Female",63,0,0,1,"Private","Rural",7926,26.6,"smokes",0
+"982",39120,"Female",82,0,0,0,"Self-employed","Urban",8221,26,"never smoked",0
+"987",13319,"Female",5,0,0,0,"children","Rural",8493,17.6,"Unknown",0
+"994",4842,"Female",76,0,0,0,"Self-employed","Urban",7752,40.9,"formerly smoked",0
+"995",58138,"Male",57,0,0,1,"Private","Rural",11164,31.5,"never smoked",0
+"997",65053,"Female",34,0,0,1,"Private","Urban",11301,37.6,"never smoked",0
+"1001",8332,"Female",50,0,0,1,"Private","Rural",20625,53.4,"formerly smoked",0
+"1002",61973,"Female",80,1,1,1,"Private","Rural",11552,34.4,"Unknown",0
+"1004",18687,"Male",55,0,0,1,"Self-employed","Urban",9367,29.3,"Unknown",0
+"1012",65429,"Female",66,0,0,1,"Govt_job","Rural",9334,27.7,"never smoked",0
+"1014",43146,"Male",8,0,0,0,"children","Urban",1064,18.3,"Unknown",0
+"1015",3509,"Male",47,1,0,1,"Private","Urban",11025,44.3,"never smoked",0
+"1016",57497,"Male",27,0,0,0,"Private","Rural",697,27.3,"never smoked",0
+"1022",59894,"Female",58,0,0,1,"Govt_job","Rural",10956,23.1,"never smoked",0
+"1023",18684,"Female",73,0,0,1,"Self-employed","Rural",8945,30.3,"formerly smoked",0
+"1026",7250,"Female",51,0,0,0,"Private","Rural",8777,42,"Unknown",0
+"1028",18306,"Female",30,0,0,0,"Private","Rural",9388,24,"formerly smoked",0
+"1031",26134,"Female",28,0,0,1,"Private","Urban",11122,25.5,"Unknown",0
+"1032",67603,"Male",70,0,0,1,"Self-employed","Urban",22368,34.3,"formerly smoked",0
+"1038",42329,"Female",77,0,0,1,"Private","Rural",7506,22,"Unknown",0
+"1040",27323,"Female",67,0,0,1,"Self-employed","Urban",6861,31.9,"never smoked",0
+"1043",66321,"Male",47,0,0,1,"Govt_job","Urban",6499,33.2,"never smoked",0
+"1044",66678,"Female",22,0,0,0,"Private","Urban",734,21.6,"never smoked",0
+"1052",65453,"Female",56,1,0,1,"Govt_job","Urban",8244,27.8,"smokes",0
+"1053",9415,"Female",69,0,0,1,"Self-employed","Urban",8085,29.3,"formerly smoked",0
+"1060",59940,"Male",15,0,0,0,"children","Urban",1165,27.8,"Unknown",0
+"1070",71440,"Female",26,0,0,1,"Private","Urban",9066,27.2,"Unknown",0
+"1073",32733,"Female",28,0,0,1,"Private","Rural",10668,29.3,"never smoked",0
+"1077",59275,"Male",10,0,0,0,"children","Rural",5803,35.2,"Unknown",0
+"1080",50371,"Male",56,0,0,1,"Private","Urban",6318,31.5,"Unknown",0
+"1085",43268,"Female",52,1,0,0,"Private","Urban",73,25.2,"smokes",0
+"1087",20973,"Male",45,0,0,1,"Govt_job","Rural",8699,37.9,"never smoked",0
+"1090",45955,"Female",45,0,0,1,"Private","Urban",5567,23.1,"smokes",0
+"1094",52550,"Female",79,0,0,1,"Govt_job","Urban",8356,28.7,"smokes",0
+"1095",47414,"Female",71,1,0,1,"Private","Urban",11676,32.9,"formerly smoked",0
+"1100",33622,"Male",62,1,0,1,"Private","Urban",21149,41.1,"Unknown",0
+"1101",26191,"Female",78,0,0,0,"Private","Urban",6796,26.8,"Unknown",0
+"1113",32645,"Female",44,0,0,1,"Private","Rural",9759,30.5,"smokes",0
+"1117",28326,"Female",79,0,0,1,"Private","Urban",6559,28.1,"never smoked",0
+"1122",2750,"Male",73,1,1,1,"Self-employed","Rural",23068,37.7,"Unknown",0
+"1123",47585,"Female",31,0,0,0,"Self-employed","Urban",6268,35.8,"never smoked",0
+"1125",39518,"Female",20,0,0,0,"Private","Rural",7894,20.7,"never smoked",0
+"1128",53266,"Female",33,0,0,1,"Private","Urban",7991,33.5,"never smoked",0
+"1131",36820,"Male",64,1,0,1,"Private","Rural",7843,30.2,"smokes",0
+"1133",10133,"Male",46,0,0,1,"Private","Urban",8535,32.1,"smokes",0
+"1135",38255,"Male",21,0,0,0,"Private","Urban",8271,20.1,"formerly smoked",0
+"1137",39423,"Female",32,0,0,1,"Private","Rural",10602,24.9,"smokes",0
+"1145",44764,"Female",78,1,0,1,"Self-employed","Rural",592,29.1,"Unknown",0
+"1146",61983,"Female",41,0,0,1,"Private","Urban",13376,43.4,"smokes",0
+"1147",72268,"Male",68,0,0,1,"Self-employed","Urban",6136,26.5,"formerly smoked",0
+"1150",7167,"Female",20,0,0,0,"Private","Rural",11208,23,"never smoked",0
+"1151",59147,"Male",20,0,0,0,"Private","Urban",962,21.5,"never smoked",0
+"1154",35927,"Male",65,0,0,1,"Private","Urban",8857,29,"smokes",0
+"1157",7516,"Male",53,0,0,1,"Self-employed","Urban",9489,28.5,"never smoked",0
+"1163",39823,"Female",41,0,0,1,"Govt_job","Rural",22986,35.2,"smokes",0
+"1164",37053,"Male",53,0,0,1,"Govt_job","Rural",7873,23.3,"never smoked",0
+"1173",55744,"Male",2,0,0,0,"children","Urban",7625,20.1,"Unknown",0
+"1176",71319,"Male",15,0,0,0,"Private","Rural",7859,25.1,"Unknown",0
+"1179",46576,"Male",2,0,0,0,"children","Rural",6852,20.8,"Unknown",0
+"1180",31293,"Male",11,0,0,0,"children","Urban",9217,19.5,"Unknown",0
+"1181",70610,"Female",45,0,0,1,"Private","Rural",8102,39,"never smoked",0
+"1182",6044,"Male",22,0,0,0,"Govt_job","Rural",9433,23.1,"never smoked",0
+"1184",5821,"Female",50,0,0,1,"Private","Rural",21739,50.6,"Unknown",0
+"1185",22295,"Female",25,0,0,0,"Private","Urban",8277,36.3,"Unknown",0
+"1186",27583,"Male",49,0,0,1,"Private","Rural",8813,32.8,"never smoked",0
+"1188",1164,"Female",43,0,0,0,"Private","Rural",10175,26.7,"smokes",0
+"1189",48781,"Male",67,0,0,1,"Private","Rural",11334,26.3,"formerly smoked",0
+"1191",47844,"Female",38,0,0,1,"Private","Urban",6934,43.7,"never smoked",0
+"1199",45669,"Male",22,0,0,0,"Private","Urban",8953,30.2,"Unknown",0
+"1201",60399,"Male",53,0,0,1,"Self-employed","Rural",7679,33.9,"Unknown",0
+"1209",52150,"Male",63,1,1,1,"Private","Urban",15045,44.5,"formerly smoked",0
+"1211",67814,"Male",43,0,0,1,"Govt_job","Rural",7992,30.8,"formerly smoked",0
+"1215",53967,"Female",80,0,0,1,"Self-employed","Rural",7261,27.6,"never smoked",0
+"1218",51916,"Male",13,0,0,0,"children","Rural",5737,17.6,"Unknown",0
+"1219",59157,"Male",73,1,0,1,"Private","Urban",8834,27.5,"never smoked",0
+"1223",21857,"Female",5,0,0,0,"children","Urban",8491,26.1,"Unknown",0
+"1226",56090,"Female",65,0,0,1,"Self-employed","Rural",16731,27.1,"never smoked",0
+"1228",6040,"Female",46,0,0,0,"Private","Rural",7963,55,"Unknown",0
+"1229",17639,"Male",44,0,0,1,"Govt_job","Rural",8749,26.6,"never smoked",0
+"1230",27572,"Female",25,0,0,0,"Private","Rural",9282,24.1,"never smoked",0
+"1232",22001,"Male",80,0,1,1,"Govt_job","Rural",18123,32.2,"formerly smoked",0
+"1246",52306,"Male",57,0,0,1,"Self-employed","Urban",6797,27.9,"never smoked",0
+"1247",8951,"Female",77,1,0,1,"Self-employed","Urban",717,32.8,"never smoked",0
+"1248",64752,"Female",29,0,0,0,"Private","Urban",7202,34,"formerly smoked",0
+"1251",40571,"Male",29,0,0,0,"Private","Urban",7375,28.3,"never smoked",0
+"1252",40624,"Female",37,0,0,1,"Private","Rural",1567,36.9,"never smoked",0
+"1254",66310,"Male",54,0,0,1,"Self-employed","Rural",13847,31.5,"never smoked",0
+"1260",47537,"Female",17,0,0,0,"Private","Rural",11223,28.7,"never smoked",0
+"1263",31125,"Female",50,0,0,1,"Private","Rural",9422,24.8,"never smoked",0
+"1264",54526,"Male",76,1,0,1,"Self-employed","Rural",19758,34.8,"formerly smoked",0
+"1271",60816,"Female",82,1,0,1,"Private","Urban",6246,20.3,"formerly smoked",0
+"1277",47159,"Male",68,0,0,1,"Private","Urban",15517,35.5,"never smoked",0
+"1278",26242,"Male",6,0,0,0,"children","Urban",8328,20,"Unknown",0
+"1280",47357,"Female",60,0,0,1,"Private","Rural",6278,36.4,"Unknown",0
+"1285",49646,"Male",72,0,1,1,"Self-employed","Rural",11363,26.5,"Unknown",0
+"1286",24256,"Male",35,0,0,1,"Private","Rural",10808,30.6,"formerly smoked",0
+"1293",21850,"Male",58,0,0,1,"Govt_job","Urban",10105,31.4,"Unknown",0
+"1295",43905,"Female",64,0,0,0,"Govt_job","Rural",1081,17.9,"never smoked",0
+"1298",63984,"Male",39,0,0,1,"Private","Rural",20577,24.1,"never smoked",0
+"1299",13504,"Female",10,0,0,0,"children","Urban",11234,18.1,"Unknown",0
+"1303",239,"Male",59,1,1,1,"Private","Rural",24653,27.2,"formerly smoked",0
+"1306",2092,"Female",37,0,0,1,"Private","Rural",9812,27.5,"never smoked",0
+"1307",69239,"Female",43,0,0,1,"Self-employed","Rural",10559,43.3,"smokes",0
+"1308",68235,"Male",12,0,0,0,"children","Rural",86,20.1,"formerly smoked",0
+"1312",39258,"Female",59,0,0,1,"Self-employed","Urban",6582,29.4,"never smoked",0
+"1314",48648,"Female",55,0,0,1,"Private","Urban",6445,26.7,"never smoked",0
+"1317",33983,"Male",75,0,0,1,"Govt_job","Rural",20633,26.8,"never smoked",0
+"1320",2772,"Male",55,0,0,1,"Private","Urban",8772,27,"Unknown",0
+"1322",62387,"Female",45,0,0,1,"Private","Urban",10084,21,"never smoked",0
+"1325",51339,"Male",12,0,0,0,"children","Rural",9042,28.9,"Unknown",0
+"1330",29375,"Male",62,0,0,1,"Private","Urban",20698,36.8,"smokes",0
+"1331",62452,"Male",82,1,0,1,"Private","Rural",22728,33.3,"never smoked",0
+"1333",47622,"Male",78,0,1,1,"Self-employed","Urban",2287,34,"Unknown",0
+"1336",44179,"Female",41,0,0,1,"Private","Urban",8077,21.1,"never smoked",0
+"1343",65970,"Female",5,0,0,0,"children","Rural",7783,15.6,"Unknown",0
+"1344",1577,"Female",17,0,0,0,"Private","Urban",7001,43,"Unknown",0
+"1345",51109,"Female",6,0,0,0,"children","Rural",11988,17.8,"Unknown",0
+"1348",47770,"Male",2,0,0,0,"children","Urban",8098,19.9,"Unknown",0
+"1352",67217,"Female",45,0,0,1,"Private","Urban",9286,35.1,"formerly smoked",0
+"1353",49976,"Female",54,0,1,1,"Private","Urban",14028,37.1,"formerly smoked",0
+"1355",42201,"Male",53,0,0,1,"Private","Urban",12416,31.7,"never smoked",0
+"1358",57137,"Male",65,0,0,1,"Private","Urban",5987,28.5,"smokes",0
+"1359",36858,"Female",40,0,0,1,"Private","Rural",7276,24,"formerly smoked",0
+"1360",50373,"Female",3,0,0,0,"children","Rural",6834,18,"Unknown",0
+"1362",13191,"Female",24,0,0,0,"Private","Rural",12077,16.9,"never smoked",0
+"1364",42191,"Female",52,0,0,1,"Govt_job","Urban",12634,35.1,"never smoked",0
+"1367",64750,"Female",22,0,0,0,"Private","Rural",6281,21.3,"never smoked",0
+"1381",15987,"Male",13,0,0,0,"children","Urban",9265,31.7,"never smoked",0
+"1383",47627,"Male",8,0,0,0,"children","Urban",10769,20.3,"Unknown",0
+"1391",742,"Female",39,0,0,0,"Govt_job","Rural",8733,34.3,"never smoked",0
+"1392",42902,"Male",35,0,0,1,"Private","Rural",10234,34.3,"never smoked",0
+"1394",61512,"Female",71,0,0,1,"Self-employed","Urban",14423,22.1,"formerly smoked",0
+"1403",16949,"Female",49,1,0,1,"Govt_job","Rural",10791,25,"Unknown",0
+"1404",45297,"Male",68,1,0,1,"Private","Rural",954,27.5,"never smoked",0
+"1408",26452,"Female",41,0,0,1,"Private","Rural",10436,30.2,"never smoked",0
+"1409",16378,"Female",63,0,0,1,"Govt_job","Urban",12387,34.9,"Unknown",0
+"1414",15219,"Female",27,0,0,0,"Private","Rural",7805,22.3,"never smoked",0
+"1416",72824,"Male",46,0,0,1,"Private","Rural",5905,28.3,"formerly smoked",0
+"1418",52987,"Female",34,0,0,1,"Govt_job","Rural",7018,24.9,"Unknown",0
+"1420",29378,"Female",77,0,0,1,"Private","Urban",793,26.4,"Unknown",0
+"1422",48609,"Female",81,0,1,1,"Private","Rural",12349,30.7,"smokes",0
+"1424",8085,"Male",18,0,0,0,"Private","Rural",14345,32,"smokes",0
+"1425",41820,"Female",35,0,0,1,"Govt_job","Rural",8911,24.4,"never smoked",0
+"1430",18070,"Female",27,0,0,0,"Private","Rural",73,20,"never smoked",0
+"1431",17860,"Male",56,0,0,1,"Private","Rural",975,36.3,"formerly smoked",0
+"1438",25559,"Female",66,0,1,1,"Govt_job","Rural",7611,37,"Unknown",0
+"1441",49709,"Female",77,1,0,1,"Self-employed","Rural",23853,30.6,"never smoked",0
+"1444",71322,"Female",38,0,0,1,"Private","Rural",1962,32.8,"never smoked",0
+"1453",51020,"Female",55,0,0,1,"Private","Rural",8778,25.2,"formerly smoked",0
+"1454",52089,"Female",23,0,0,0,"Private","Urban",12667,28.7,"smokes",0
+"1455",41424,"Male",59,0,1,1,"Self-employed","Rural",19498,30.4,"Unknown",0
+"1459",29910,"Male",42,0,0,1,"Private","Urban",8314,23.7,"never smoked",0
+"1463",59339,"Male",5,0,0,0,"children","Urban",8241,18.4,"Unknown",0
+"1466",57798,"Male",12,0,0,0,"children","Rural",12725,28.2,"Unknown",0
+"1468",11605,"Female",26,0,0,0,"Private","Rural",1082,26.2,"never smoked",0
+"1472",3178,"Female",25,0,0,1,"Private","Rural",6878,55.1,"formerly smoked",0
+"1473",61924,"Male",8,0,0,0,"children","Rural",13363,18.8,"Unknown",0
+"1478",43271,"Female",24,0,0,0,"Govt_job","Urban",634,20.3,"smokes",0
+"1487",30214,"Male",23,0,0,0,"Private","Rural",8386,19.5,"never smoked",0
+"1488",66419,"Male",25,0,0,1,"Private","Rural",11996,27.7,"never smoked",0
+"1490",24218,"Female",78,0,0,0,"Private","Rural",877,29.6,"never smoked",0
+"1495",28559,"Male",2,0,0,0,"children","Urban",8854,17.5,"Unknown",0
+"1500",30116,"Female",57,0,0,1,"Private","Rural",10228,25.5,"never smoked",0
+"1501",52034,"Male",31,0,0,1,"Private","Urban",7131,25.8,"never smoked",0
+"1502",35584,"Male",61,0,0,1,"Private","Rural",8975,25.4,"never smoked",0
+"1506",10603,"Female",68,0,0,1,"Private","Rural",8138,23.1,"Unknown",0
+"1509",1231,"Female",62,0,0,1,"Govt_job","Rural",7344,23.4,"Unknown",0
+"1512",39286,"Female",35,0,0,1,"Self-employed","Rural",15125,28.4,"Unknown",0
+"1513",32766,"Male",51,0,0,0,"Private","Rural",10641,41.9,"smokes",0
+"1514",15988,"Male",60,1,0,1,"Private","Urban",19709,34.3,"Unknown",0
+"1518",38094,"Male",15,0,0,0,"Self-employed","Urban",684,23,"never smoked",0
+"1523",54553,"Male",70,1,0,1,"Private","Urban",6598,33,"formerly smoked",0
+"1526",12915,"Female",66,0,0,1,"Govt_job","Rural",8552,30,"never smoked",0
+"1529",59953,"Female",15,0,0,0,"Private","Rural",6938,28.4,"never smoked",0
+"1531",68739,"Male",34,0,0,1,"Private","Urban",14962,39.4,"formerly smoked",0
+"1532",35829,"Female",33,0,0,1,"Private","Urban",24284,15.7,"smokes",0
+"1536",3154,"Female",81,0,0,1,"Self-employed","Rural",11488,18.3,"formerly smoked",0
+"1542",47037,"Female",67,0,0,1,"Private","Urban",10271,39.9,"formerly smoked",0
+"1544",15969,"Female",41,0,0,1,"Self-employed","Rural",10289,37.2,"formerly smoked",0
+"1545",50889,"Female",21,0,0,0,"Govt_job","Rural",5663,49.8,"never smoked",0
+"1547",34163,"Male",54,0,0,1,"Private","Rural",10951,29,"never smoked",0
+"1551",40393,"Female",32,0,0,0,"Private","Urban",6819,21.1,"never smoked",0
+"1554",17079,"Male",44,0,0,1,"Private","Rural",9471,28.4,"smokes",0
+"1556",29385,"Female",56,0,0,1,"Private","Rural",2226,40.1,"smokes",0
+"1560",32776,"Male",63,0,0,1,"Private","Urban",19914,28.5,"never smoked",0
+"1561",8960,"Female",42,0,0,0,"Self-employed","Rural",7341,56,"smokes",0
+"1562",63491,"Female",63,0,0,1,"Private","Urban",10965,28.6,"formerly smoked",0
+"1563",51883,"Female",52,0,0,1,"Govt_job","Rural",6911,35.2,"never smoked",0
+"1564",20460,"Female",62,0,0,1,"Private","Urban",11441,32.5,"never smoked",0
+"1567",44010,"Female",3,0,0,0,"children","Urban",5733,16.8,"Unknown",0
+"1569",71044,"Female",8,0,0,0,"children","Rural",7163,16.3,"Unknown",0
+"1576",48722,"Female",54,0,0,1,"Private","Urban",7509,38.9,"formerly smoked",0
+"1580",14711,"Male",63,0,0,1,"Self-employed","Urban",8208,32.2,"formerly smoked",0
+"1583",36722,"Female",30,0,0,1,"Private","Urban",12365,44,"smokes",0
+"1586",20468,"Female",32,0,0,1,"Private","Urban",808,44.8,"never smoked",0
+"1588",44171,"Male",62,0,0,1,"Private","Rural",6256,32.3,"never smoked",0
+"1592",13949,"Female",44,0,0,1,"Govt_job","Urban",6706,35.5,"never smoked",0
+"1595",70447,"Male",50,0,0,1,"Private","Rural",12248,35.9,"smokes",0
+"1596",6879,"Female",44,0,0,0,"Govt_job","Urban",2159,41.8,"smokes",0
+"1597",37451,"Female",47,0,0,1,"Govt_job","Rural",10856,27.3,"formerly smoked",0
+"1600",897,"Male",3,0,0,0,"children","Rural",6585,17,"Unknown",0
+"1605",38036,"Female",23,0,0,0,"Private","Urban",1245,33.4,"Unknown",0
+"1610",31835,"Male",19,0,0,0,"Private","Urban",7486,28.4,"never smoked",0
+"1612",26893,"Male",8,0,0,0,"children","Urban",10126,33.8,"Unknown",0
+"1619",45713,"Female",57,0,0,1,"Govt_job","Urban",2195,33.8,"formerly smoked",0
+"1622",63416,"Female",16,0,0,0,"Private","Urban",5802,22.5,"Unknown",0
+"1625",51660,"Female",69,0,0,1,"Self-employed","Rural",6319,32.2,"never smoked",0
+"1629",49645,"Male",58,0,0,0,"Private","Rural",7622,22.2,"formerly smoked",0
+"1636",41007,"Female",39,0,0,1,"Private","Urban",606,34.2,"never smoked",0
+"1643",43510,"Female",50,1,0,1,"Govt_job","Urban",5989,25.5,"never smoked",0
+"1644",21202,"Female",27,0,0,1,"Private","Urban",8057,39.8,"smokes",0
+"1647",29179,"Female",76,1,1,1,"Private","Rural",10208,31,"smokes",0
+"1649",67144,"Female",65,0,0,1,"Self-employed","Urban",8221,26.2,"Unknown",0
+"1650",3753,"Male",31,0,0,1,"Private","Urban",7405,26,"Unknown",0
+"1651",48759,"Female",45,0,0,1,"Private","Rural",17648,24,"formerly smoked",0
+"1658",16582,"Male",26,0,0,1,"Private","Rural",9557,30.7,"smokes",0
+"1660",70241,"Female",22,0,0,0,"Private","Urban",6629,20.5,"smokes",0
+"1663",64412,"Female",47,0,0,1,"Private","Urban",5667,24.4,"never smoked",0
+"1665",39450,"Male",22,0,0,0,"Private","Rural",5896,25.3,"Unknown",0
+"1670",35333,"Male",76,1,0,1,"Private","Rural",2256,29,"never smoked",0
+"1674",38858,"Male",2,0,0,0,"children","Rural",6567,16.6,"Unknown",0
+"1675",6802,"Female",37,0,0,1,"Private","Urban",7451,29.5,"Unknown",0
+"1677",54579,"Female",75,0,0,1,"Self-employed","Urban",8769,27.5,"formerly smoked",0
+"1679",17926,"Female",48,0,0,1,"Govt_job","Rural",11164,27.9,"Unknown",0
+"1681",64523,"Male",54,1,0,1,"Private","Urban",8993,32.1,"never smoked",0
+"1685",46035,"Male",1,0,0,0,"children","Urban",8485,20.3,"Unknown",0
+"1686",24630,"Male",57,0,0,1,"Private","Rural",23059,23.2,"formerly smoked",0
+"1690",29934,"Male",34,0,0,1,"Private","Urban",10812,22.2,"Unknown",0
+"1694",24876,"Male",35,0,0,1,"Private","Urban",8281,23.9,"never smoked",0
+"1702",68708,"Female",23,0,0,0,"Private","Urban",641,19.8,"Unknown",0
+"1705",24638,"Male",50,0,0,1,"Govt_job","Urban",8824,32.6,"Unknown",0
+"1707",36545,"Male",43,0,0,1,"Private","Rural",6299,27,"formerly smoked",0
+"1712",23543,"Female",25,0,0,0,"Private","Rural",8154,43.1,"Unknown",0
+"1716",16091,"Male",14,0,0,0,"Private","Rural",10344,20.1,"never smoked",0
+"1717",63597,"Female",60,0,0,1,"Private","Urban",18531,39.3,"never smoked",0
+"1722",23988,"Female",45,0,0,1,"Private","Rural",7668,34.8,"smokes",0
+"1734",61641,"Male",14,0,0,0,"children","Rural",14942,20.6,"Unknown",0
+"1740",28913,"Male",78,0,0,1,"Private","Rural",10009,30.5,"Unknown",0
+"1741",70857,"Female",55,0,0,1,"Govt_job","Urban",19836,29.1,"smokes",0
+"1743",23459,"Female",47,0,0,1,"Private","Rural",7543,36.4,"smokes",0
+"1749",42713,"Female",45,0,0,1,"Private","Urban",11523,28,"never smoked",0
+"1750",16066,"Female",53,1,1,1,"Private","Urban",19625,24.9,"smokes",0
+"1751",33692,"Female",12,0,0,0,"children","Rural",8597,35.7,"Unknown",0
+"1757",60050,"Female",53,0,0,1,"Self-employed","Urban",11374,31.6,"smokes",0
+"1765",27479,"Male",63,0,0,1,"Self-employed","Rural",1047,21,"formerly smoked",0
+"1767",49014,"Female",76,0,0,1,"Govt_job","Urban",20405,23.5,"never smoked",0
+"1768",67063,"Male",62,0,0,1,"Self-employed","Urban",13056,36.1,"Unknown",0
+"1770",33298,"Female",44,0,0,1,"Private","Urban",10529,27.6,"formerly smoked",0
+"1776",27799,"Male",72,0,0,1,"Private","Rural",20926,38.1,"formerly smoked",0
+"1779",72435,"Female",37,0,0,1,"Private","Urban",21711,29.1,"never smoked",0
+"1780",46864,"Male",54,0,1,1,"Govt_job","Urban",22246,35.7,"never smoked",0
+"1781",26154,"Male",56,0,0,1,"Private","Rural",8244,34.5,"never smoked",0
+"1785",34525,"Female",27,0,0,0,"Private","Rural",8326,22.2,"never smoked",0
+"1788",67942,"Male",21,0,0,0,"Private","Rural",6509,23.5,"never smoked",0
+"1790",39849,"Male",39,1,0,0,"Private","Urban",8099,39.8,"Unknown",0
+"1791",7344,"Male",38,0,0,1,"Govt_job","Rural",23774,21.2,"never smoked",0
+"1796",1151,"Female",59,0,0,1,"Self-employed","Urban",6775,21.3,"formerly smoked",0
+"1798",11134,"Male",43,0,0,1,"Private","Rural",7786,28.9,"never smoked",0
+"1801",10390,"Female",8,0,0,0,"children","Urban",6733,16.7,"Unknown",0
+"1808",2421,"Female",58,0,0,1,"Private","Urban",9026,36.1,"never smoked",0
+"1810",5723,"Female",50,0,0,1,"Private","Urban",9108,26.4,"never smoked",0
+"1811",71590,"Female",5,0,0,0,"children","Rural",10204,18.5,"Unknown",0
+"1815",3390,"Female",36,0,0,1,"Private","Rural",10033,23.2,"never smoked",0
+"1824",62238,"Female",42,0,0,0,"Private","Urban",8024,28.9,"never smoked",0
+"1825",737,"Male",10,0,0,0,"children","Urban",8869,30.4,"Unknown",0
+"1826",4627,"Male",34,0,0,0,"Private","Urban",6909,36.9,"formerly smoked",0
+"1828",6844,"Male",33,0,0,1,"Private","Urban",9874,44.4,"never smoked",0
+"1831",44938,"Female",14,0,0,0,"children","Urban",12907,20.6,"Unknown",0
+"1833",39011,"Female",14,0,0,0,"children","Urban",6982,25.1,"never smoked",0
+"1846",36704,"Female",29,0,0,1,"Self-employed","Rural",7433,29.9,"smokes",0
+"1847",8884,"Female",5,0,0,0,"children","Rural",1094,20,"Unknown",0
+"1848",49775,"Male",40,0,0,1,"Private","Rural",754,28.7,"Unknown",0
+"1856",56889,"Male",45,1,0,1,"Private","Urban",6099,32.8,"Unknown",0
+"1861",29863,"Male",44,0,0,0,"Private","Urban",10344,28,"never smoked",0
+"1863",20310,"Male",25,0,0,0,"Govt_job","Urban",755,24.6,"never smoked",0
+"1869",18704,"Female",37,0,0,1,"Private","Rural",9477,48.9,"Unknown",0
+"1873",21521,"Male",64,0,1,1,"Private","Urban",10328,34.3,"smokes",0
+"1888",67099,"Male",56,0,0,0,"children","Rural",5702,20.7,"Unknown",0
+"1893",64128,"Male",10,0,0,0,"children","Urban",6308,20.5,"smokes",0
+"1895",69339,"Male",11,0,0,0,"children","Urban",9979,20.2,"Unknown",0
+"1900",56584,"Female",22,0,0,0,"Private","Rural",62,32.7,"smokes",0
+"1904",3429,"Female",32,0,0,0,"Govt_job","Urban",10823,20.4,"Unknown",0
+"1906",67689,"Male",37,0,0,1,"Self-employed","Rural",8243,39.1,"Unknown",0
+"1913",64393,"Male",56,0,0,0,"Self-employed","Rural",8795,25.2,"never smoked",0
+"1914",69285,"Female",45,0,0,1,"Private","Urban",7327,22.2,"smokes",0
+"1920",61903,"Male",58,0,0,0,"Govt_job","Rural",9575,38.5,"smokes",0
+"1926",8031,"Female",63,0,0,1,"Self-employed","Rural",8551,26.6,"smokes",0
+"1929",22689,"Male",12,0,0,0,"children","Rural",9615,18.7,"Unknown",0
+"1931",32320,"Female",35,0,0,1,"Self-employed","Urban",11445,25.2,"smokes",0
+"1935",17492,"Female",3,0,0,0,"children","Urban",1013,24.8,"Unknown",0
+"1940",16129,"Female",81,0,0,1,"Self-employed","Urban",9313,26.1,"Unknown",0
+"1941",64006,"Female",15,0,0,0,"Private","Urban",1216,22.8,"never smoked",0
+"1942",51845,"Male",50,0,0,1,"Govt_job","Rural",844,42.3,"formerly smoked",0
+"1946",16938,"Female",40,0,0,1,"Self-employed","Rural",21297,49.8,"formerly smoked",0
+"1950",61242,"Female",41,1,0,1,"Govt_job","Rural",1075,54,"never smoked",0
+"1952",49615,"Female",12,0,0,0,"children","Urban",5814,21.3,"never smoked",0
+"1956",36946,"Male",74,0,0,1,"Private","Rural",9267,26.3,"formerly smoked",0
+"1959",5355,"Male",63,0,0,1,"Govt_job","Rural",23169,56.1,"formerly smoked",0
+"1961",11539,"Female",24,1,0,0,"Private","Urban",10722,35.3,"smokes",0
+"1965",22891,"Female",42,0,0,1,"Self-employed","Urban",9876,26.4,"smokes",0
+"1972",6199,"Female",52,0,0,1,"Govt_job","Rural",10727,30.1,"Unknown",0
+"1975",24342,"Female",23,0,0,0,"Private","Rural",1123,26.6,"Unknown",0
+"1978",42624,"Female",52,0,0,1,"Private","Urban",9314,32.5,"never smoked",0
+"1979",24735,"Female",21,0,0,0,"Private","Rural",8084,30.7,"Unknown",0
+"1980",50671,"Male",78,1,1,1,"Self-employed","Rural",19988,29.6,"formerly smoked",0
+"1982",65336,"Female",27,0,0,1,"Private","Urban",9871,26.1,"formerly smoked",0
+"1988",35402,"Male",14,0,0,0,"Private","Urban",7712,24.5,"formerly smoked",0
+"1993",25930,"Male",42,0,0,1,"Private","Urban",6824,33.1,"formerly smoked",0
+"1995",23009,"Male",46,0,0,1,"Private","Urban",9108,27.7,"never smoked",0
+"2008",7384,"Male",55,0,0,0,"Self-employed","Rural",7902,38,"Unknown",0
+"2010",59745,"Female",27,0,0,1,"Private","Urban",7674,53.9,"Unknown",0
+"2011",24721,"Male",24,0,0,0,"Private","Urban",7229,22.2,"Unknown",0
+"2025",55262,"Male",25,0,0,1,"Private","Rural",9388,24.3,"smokes",0
+"2033",64980,"Female",42,0,0,1,"Govt_job","Urban",6566,33.7,"never smoked",0
+"2034",65962,"Male",50,0,0,1,"Private","Urban",587,38.9,"smokes",0
+"2035",47521,"Female",55,1,0,1,"Govt_job","Urban",1864,28,"never smoked",0
+"2037",47582,"Male",3,0,0,0,"children","Urban",5905,16.6,"Unknown",0
+"2038",63938,"Female",49,0,0,1,"Self-employed","Urban",14913,42.9,"smokes",0
+"2042",45040,"Male",55,0,0,1,"Private","Urban",20381,33.9,"formerly smoked",0
+"2043",56791,"Male",9,0,0,0,"children","Urban",17076,20,"Unknown",0
+"2045",72514,"Male",18,0,0,0,"Private","Rural",12058,21.5,"never smoked",0
+"2046",3842,"Male",73,0,0,1,"Private","Rural",8657,28.5,"formerly smoked",0
+"2047",38143,"Female",67,1,0,1,"Private","Urban",9001,34.4,"smokes",0
+"2054",57270,"Female",57,0,0,1,"Private","Rural",18944,35.8,"never smoked",0
+"2057",32252,"Female",19,0,0,0,"Private","Rural",7252,32,"Unknown",0
+"2059",53990,"Male",64,0,1,1,"Private","Urban",21135,30.7,"formerly smoked",0
+"2060",20565,"Male",13,0,0,0,"children","Rural",8587,24.3,"Unknown",0
+"2063",34721,"Female",62,1,0,1,"Govt_job","Urban",9213,33.7,"never smoked",0
+"2069",69623,"Male",46,0,0,1,"Private","Urban",8584,37.3,"never smoked",0
+"2070",40378,"Male",45,1,0,1,"Self-employed","Urban",9043,39.7,"smokes",0
+"2072",17295,"Female",31,0,0,1,"Self-employed","Urban",20659,41.4,"smokes",0
+"2080",49672,"Female",66,0,0,1,"Govt_job","Rural",15202,44.2,"formerly smoked",0
+"2087",27017,"Male",28,0,0,0,"Private","Urban",7592,22.8,"never smoked",0
+"2088",8277,"Female",3,0,0,0,"children","Urban",933,19.5,"Unknown",0
+"2091",57774,"Male",50,0,0,1,"Private","Rural",10402,29.5,"never smoked",0
+"2095",48472,"Male",57,0,0,1,"Private","Rural",7628,31.4,"formerly smoked",0
+"2097",35602,"Female",52,0,0,1,"Govt_job","Rural",10784,22,"formerly smoked",0
+"2100",64895,"Male",54,1,0,1,"Self-employed","Rural",10442,37.6,"smokes",0
+"2106",34764,"Female",33,0,0,1,"Private","Rural",8082,40.3,"never smoked",0
+"2109",72450,"Male",40,0,0,1,"Private","Rural",8881,32.7,"Unknown",0
+"2111",54985,"Female",1,0,0,0,"children","Urban",19983,24.5,"Unknown",0
+"2114",64371,"Female",49,0,0,1,"Self-employed","Rural",6844,23,"smokes",0
+"2121",42599,"Female",78,0,1,1,"Private","Urban",10718,28.2,"never smoked",0
+"2125",15255,"Female",16,0,0,0,"Private","Rural",9403,25.7,"never smoked",0
+"2126",65680,"Male",58,0,1,1,"Self-employed","Urban",22781,33,"formerly smoked",0
+"2132",48246,"Male",59,0,0,1,"Private","Urban",6035,25.9,"formerly smoked",0
+"2133",61743,"Male",28,0,0,0,"Govt_job","Urban",11866,32.3,"never smoked",0
+"2134",58086,"Male",67,0,0,1,"Private","Urban",5851,30.4,"formerly smoked",0
+"2139",43872,"Female",78,0,0,1,"Private","Rural",5634,27.5,"Unknown",0
+"2140",62951,"Female",32,0,0,1,"Private","Rural",6183,31.3,"never smoked",0
+"2143",23223,"Male",51,0,0,1,"Private","Rural",23928,35,"never smoked",0
+"2146",1451,"Female",17,0,0,0,"Private","Urban",7846,23.5,"Unknown",0
+"2150",21826,"Male",73,0,0,1,"Self-employed","Rural",10125,29.4,"formerly smoked",0
+"2152",55566,"Female",34,0,0,1,"Private","Rural",2315,45.4,"never smoked",0
+"2154",63990,"Male",52,1,0,1,"Self-employed","Rural",19237,49.2,"never smoked",0
+"2156",15964,"Female",64,1,0,1,"Private","Rural",994,29.1,"never smoked",0
+"2158",33284,"Male",18,0,0,0,"Private","Rural",7503,23.4,"never smoked",0
+"2161",36589,"Female",61,0,0,1,"Self-employed","Urban",1808,20.3,"never smoked",0
+"2164",32166,"Male",47,1,0,1,"Private","Urban",7564,24.4,"never smoked",0
+"2166",58359,"Female",71,1,0,1,"Private","Urban",12997,44.2,"smokes",0
+"2169",6104,"Female",7,0,0,0,"children","Rural",8515,15.1,"Unknown",0
+"2171",30806,"Male",37,0,0,1,"Self-employed","Urban",8716,30.4,"formerly smoked",0
+"2172",20316,"Female",75,0,0,1,"Govt_job","Rural",21939,33.4,"smokes",0
+"2174",39956,"Female",34,0,0,0,"Private","Rural",8721,38.4,"Unknown",0
+"2179",57549,"Female",76,0,0,1,"Self-employed","Urban",11007,31.8,"never smoked",0
+"2180",59200,"Male",18,0,0,0,"Private","Urban",6056,33,"never smoked",0
+"2181",24289,"Male",82,0,0,1,"Private","Urban",8983,24.7,"smokes",0
+"2186",3045,"Male",68,1,0,1,"Private","Urban",9606,37.6,"never smoked",0
+"2190",55465,"Female",31,0,0,1,"Private","Rural",6041,31.1,"Unknown",0
+"2191",29258,"Female",37,0,0,0,"Private","Urban",8911,24.1,"never smoked",0
+"2194",59904,"Female",18,0,0,0,"children","Urban",16293,15.7,"Unknown",0
+"2198",77,"Female",13,0,0,0,"children","Rural",8581,18.6,"Unknown",0
+"2199",17466,"Male",73,0,0,0,"Govt_job","Rural",7959,31.4,"smokes",0
+"2206",28258,"Female",80,0,0,1,"Self-employed","Urban",7506,29.7,"Unknown",0
+"2209",61219,"Female",14,0,0,0,"Never_worked","Urban",14837,22.7,"never smoked",0
+"2210",65321,"Male",6,0,0,0,"children","Rural",6455,17.4,"Unknown",0
+"2215",58599,"Female",67,0,0,1,"Private","Rural",6266,28,"formerly smoked",0
+"2220",39308,"Male",62,0,0,1,"Private","Urban",14537,33.3,"Unknown",0
+"2223",1505,"Male",71,0,1,1,"Self-employed","Rural",10113,35.9,"formerly smoked",0
+"2229",43903,"Male",79,0,0,1,"Self-employed","Rural",9492,31.9,"Unknown",0
+"2232",15579,"Male",72,0,0,1,"Self-employed","Rural",9973,36.7,"formerly smoked",0
+"2234",61573,"Male",25,0,0,0,"Private","Rural",6577,23.7,"smokes",0
+"2235",43827,"Female",27,0,0,1,"Private","Urban",16157,25.7,"smokes",0
+"2236",43090,"Female",62,1,0,1,"Self-employed","Rural",7432,34,"never smoked",0
+"2240",31893,"Female",28,0,0,1,"Private","Rural",9706,23.2,"Unknown",0
+"2243",71250,"Female",29,0,0,1,"Private","Rural",6248,29.5,"never smoked",0
+"2246",3715,"Male",55,0,0,1,"Private","Rural",23281,28.8,"Unknown",0
+"2249",3113,"Female",33,0,0,0,"Private","Rural",8021,27.8,"formerly smoked",0
+"2257",21804,"Female",19,0,0,0,"Private","Urban",8343,38.4,"Unknown",0
+"2259",36317,"Female",41,0,0,1,"Private","Rural",13429,26.8,"smokes",0
+"2261",69668,"Female",33,0,0,1,"Self-employed","Rural",11294,43,"never smoked",0
+"2262",59274,"Female",33,0,0,1,"Govt_job","Rural",7354,36.6,"smokes",0
+"2267",47831,"Male",60,1,0,0,"Private","Urban",6395,32.2,"never smoked",0
+"2268",40977,"Male",51,0,0,1,"Private","Rural",1225,20.6,"Unknown",0
+"2271",59000,"Female",42,0,0,1,"Govt_job","Urban",5671,25.2,"Unknown",0
+"2272",44510,"Female",56,0,0,1,"Private","Rural",13163,27.6,"never smoked",0
+"2277",67620,"Male",30,0,0,1,"Govt_job","Rural",6601,26.3,"smokes",0
+"2284",30432,"Male",65,1,0,1,"Self-employed","Urban",11386,36.4,"never smoked",0
+"2285",10886,"Female",13,0,0,0,"children","Rural",9949,23.4,"Unknown",0
+"2294",29855,"Female",3,0,0,0,"children","Urban",8879,21.5,"Unknown",0
+"2301",49574,"Female",56,0,0,1,"Private","Rural",22704,23,"smokes",0
+"2307",464,"Male",46,0,0,1,"Private","Rural",7844,23.9,"never smoked",0
+"2315",7411,"Male",82,0,0,1,"Private","Urban",21442,33.9,"formerly smoked",0
+"2316",39593,"Female",39,0,0,1,"Private","Urban",8063,36,"smokes",0
+"2318",35378,"Female",60,1,0,0,"Private","Urban",96,44.5,"smokes",0
+"2321",44591,"Male",79,0,0,1,"Private","Urban",2164,30.3,"never smoked",0
+"2322",4709,"Female",65,0,0,1,"Private","Rural",1088,33.5,"Unknown",0
+"2325",45864,"Female",36,0,0,0,"Private","Rural",5558,30,"never smoked",0
+"2329",7892,"Male",78,0,0,1,"Private","Urban",747,28.8,"formerly smoked",0
+"2331",12279,"Male",74,0,0,1,"Private","Urban",22794,26,"Unknown",0
+"2336",4400,"Female",36,0,0,1,"Private","Urban",6848,24.3,"never smoked",0
+"2339",30186,"Female",5,0,0,0,"children","Urban",8166,17.2,"Unknown",0
+"2343",18072,"Female",39,0,0,1,"Govt_job","Urban",10747,21.3,"Unknown",0
+"2344",34896,"Female",17,0,0,0,"Private","Rural",9211,43,"never smoked",0
+"2349",29229,"Male",32,0,0,1,"Private","Urban",9208,28.4,"smokes",0
+"2353",7658,"Male",66,0,0,1,"Govt_job","Rural",20344,30.5,"formerly smoked",0
+"2355",8646,"Female",54,0,0,1,"Private","Rural",9747,26.7,"never smoked",0
+"2357",1099,"Female",15,0,0,0,"children","Rural",10115,22.2,"Unknown",0
+"2358",61676,"Male",77,0,0,1,"Self-employed","Urban",6838,25.1,"Unknown",0
+"2359",38131,"Female",59,0,0,1,"Self-employed","Rural",5546,20.9,"never smoked",0
+"2360",61848,"Female",48,0,0,1,"Private","Urban",11387,28.9,"never smoked",0
+"2361",4949,"Male",49,0,0,1,"Private","Rural",9635,35.9,"never smoked",0
+"2365",25443,"Male",50,0,0,0,"Private","Urban",16094,26.7,"smokes",0
+"2373",18820,"Male",31,0,0,0,"Private","Rural",10856,21.8,"never smoked",0
+"2382",13465,"Female",20,0,0,0,"Private","Rural",9669,27.4,"smokes",0
+"2383",62454,"Female",12,0,0,0,"children","Urban",6398,21.2,"formerly smoked",0
+"2390",31660,"Male",23,0,0,0,"Private","Rural",8239,31.8,"Unknown",0
+"2392",19769,"Female",67,0,0,1,"Self-employed","Rural",8018,22.9,"formerly smoked",0
+"2398",10416,"Male",71,0,1,1,"Private","Urban",21572,39.2,"smokes",0
+"2400",7476,"Male",32,0,0,0,"Govt_job","Rural",9193,30.2,"never smoked",0
+"2401",55526,"Male",46,0,0,1,"Govt_job","Urban",5863,35.3,"never smoked",0
+"2406",18790,"Male",25,0,0,0,"Private","Urban",8596,34.5,"formerly smoked",0
+"2408",72369,"Female",14,0,0,0,"children","Rural",6541,19.5,"Unknown",0
+"2412",507,"Female",28,0,0,1,"Private","Rural",9415,23.1,"smokes",0
+"2414",54072,"Female",11,0,0,0,"children","Urban",8131,18.8,"never smoked",0
+"2417",65481,"Male",57,0,0,1,"Private","Urban",904,26.5,"never smoked",0
+"2418",6174,"Female",35,0,0,0,"Private","Urban",7159,40.3,"never smoked",0
+"2419",68224,"Male",54,0,0,1,"Private","Rural",2095,37.9,"formerly smoked",0
+"2423",58936,"Male",59,0,0,1,"Private","Rural",20316,43.4,"Unknown",0
+"2429",49903,"Male",27,0,0,0,"Private","Urban",7261,38.5,"never smoked",0
+"2431",18595,"Female",77,0,0,1,"Private","Urban",9978,38,"never smoked",0
+"2434",69510,"Male",39,0,0,1,"Private","Rural",12132,26.8,"never smoked",0
+"2438",37307,"Female",35,0,0,1,"Private","Urban",6548,50.5,"never smoked",0
+"2441",31473,"Male",6,0,0,0,"children","Rural",7905,17.9,"Unknown",0
+"2446",70537,"Male",5,0,0,0,"children","Rural",7479,19.4,"Unknown",0
+"2447",63193,"Female",44,0,0,1,"Private","Rural",8875,25.6,"Unknown",0
+"2448",12228,"Male",13,0,0,0,"children","Rural",9797,24.5,"never smoked",0
+"2450",28647,"Female",35,0,0,1,"Private","Urban",8133,28.9,"never smoked",0
+"2452",5505,"Female",76,0,0,1,"Private","Urban",19661,23,"never smoked",0
+"2456",32445,"Female",78,0,0,1,"Self-employed","Urban",7955,21.1,"formerly smoked",0
+"2459",70081,"Male",42,1,0,1,"Self-employed","Rural",7724,41.2,"Unknown",0
+"2465",49972,"Male",63,0,0,1,"Self-employed","Rural",21638,34.5,"never smoked",0
+"2474",55856,"Female",60,0,0,1,"Private","Rural",8316,29.7,"smokes",0
+"2478",2849,"Male",32,0,0,1,"Private","Urban",9352,31.9,"Unknown",0
+"2487",20070,"Male",23,0,0,0,"Private","Urban",867,24.6,"Unknown",0
+"2489",13764,"Female",74,0,0,1,"Private","Urban",11604,30.9,"never smoked",0
+"2498",30790,"Female",75,1,0,1,"Govt_job","Urban",8883,41.7,"never smoked",0
+"2504",3746,"Female",66,0,0,1,"Private","Urban",7683,26,"never smoked",0
+"2505",71304,"Male",5,0,0,0,"children","Urban",10183,22.7,"Unknown",0
+"2506",34935,"Female",18,0,0,0,"Govt_job","Urban",9092,16,"never smoked",0
+"2507",29173,"Male",52,0,0,1,"Govt_job","Urban",675,27.7,"smokes",0
+"2511",61979,"Female",61,0,0,1,"Govt_job","Urban",10601,34,"smokes",0
+"2514",59762,"Male",61,0,0,1,"Private","Urban",22798,14.2,"Unknown",0
+"2518",24965,"Female",25,0,0,0,"Govt_job","Rural",10315,21,"smokes",0
+"2519",33952,"Male",66,1,0,1,"Private","Urban",8291,28.9,"formerly smoked",0
+"2520",39042,"Male",2,0,0,0,"children","Urban",7093,20.3,"Unknown",0
+"2523",4727,"Female",33,0,0,1,"Govt_job","Rural",81,30.2,"formerly smoked",0
+"2527",48017,"Male",55,0,0,1,"Private","Urban",6256,28.6,"never smoked",0
+"2529",22231,"Male",58,0,0,1,"Private","Urban",19942,29,"never smoked",0
+"2534",5646,"Female",2,0,0,0,"children","Rural",923,14.8,"Unknown",0
+"2537",37972,"Female",52,0,0,1,"Private","Rural",687,16,"Unknown",0
+"2540",47405,"Female",2,0,0,0,"children","Rural",10066,18.5,"Unknown",0
+"2542",4679,"Female",38,0,0,1,"Private","Rural",10005,20.8,"smokes",0
+"2545",20165,"Female",77,0,0,1,"Private","Urban",2508,32.9,"never smoked",0
+"2547",38761,"Female",50,0,0,1,"Private","Urban",6598,21.7,"never smoked",0
+"2550",25088,"Female",40,0,0,0,"Private","Rural",217,29.4,"formerly smoked",0
+"2551",54756,"Female",59,0,0,1,"Private","Rural",5747,30.1,"formerly smoked",0
+"2568",2952,"Male",70,1,1,1,"Private","Rural",9362,35.8,"never smoked",0
+"2569",49229,"Male",52,0,0,0,"Govt_job","Rural",7271,36.9,"formerly smoked",0
+"2570",2457,"Female",67,0,1,1,"Self-employed","Rural",9445,29.6,"formerly smoked",0
+"2575",40390,"Female",12,0,0,0,"children","Rural",15003,28.2,"never smoked",0
+"2583",45931,"Male",9,0,0,0,"children","Urban",14268,24.4,"Unknown",0
+"2585",21547,"Female",46,0,0,1,"Govt_job","Urban",7528,36.7,"formerly smoked",0
+"2587",9442,"Male",55,0,0,1,"Self-employed","Rural",16382,27.5,"never smoked",0
+"2588",57047,"Female",43,0,0,1,"Private","Urban",11042,32.6,"smokes",0
+"2590",16433,"Female",36,0,0,1,"Private","Rural",10799,25.5,"never smoked",0
+"2593",46699,"Female",18,0,0,0,"Private","Rural",7857,34.4,"Unknown",0
+"2595",35315,"Male",65,0,0,1,"Self-employed","Urban",9588,28.5,"never smoked",0
+"2597",21517,"Male",54,0,0,1,"Private","Urban",9234,29.4,"smokes",0
+"2599",52207,"Female",59,0,0,1,"Self-employed","Urban",9004,28.7,"formerly smoked",0
+"2605",20657,"Female",67,0,0,1,"Private","Urban",22796,32.8,"Unknown",0
+"2607",18671,"Female",47,0,0,1,"Govt_job","Rural",11168,39.5,"never smoked",0
+"2611",72451,"Female",45,0,0,1,"Private","Rural",6373,32,"Unknown",0
+"2612",20292,"Female",24,0,0,1,"Private","Urban",8555,63.3,"never smoked",0
+"2615",57985,"Female",27,0,0,1,"Private","Urban",9419,27.4,"formerly smoked",0
+"2618",11969,"Female",50,0,0,1,"Self-employed","Urban",11018,26,"formerly smoked",0
+"2620",72776,"Male",26,0,0,1,"Govt_job","Urban",9424,29.2,"formerly smoked",0
+"2621",21438,"Female",50,0,0,1,"Private","Rural",821,26.4,"Unknown",0
+"2625",50903,"Female",29,0,0,1,"Private","Urban",11698,23.4,"never smoked",0
+"2626",35276,"Female",6,0,0,0,"children","Rural",841,19.8,"Unknown",0
+"2629",66794,"Female",44,0,0,1,"Govt_job","Rural",8113,34.1,"never smoked",0
+"2633",54371,"Male",78,0,0,1,"Govt_job","Urban",14347,27.6,"formerly smoked",0
+"2637",49120,"Female",39,0,0,1,"Govt_job","Rural",6938,22.1,"Unknown",0
+"2639",64972,"Male",47,0,0,1,"Private","Rural",5776,33.2,"smokes",0
+"2648",47501,"Female",57,0,0,1,"Private","Urban",5985,41.5,"never smoked",0
+"2649",16863,"Female",8,0,0,0,"children","Rural",10475,17.1,"Unknown",0
+"2651",35759,"Female",16,0,0,0,"Private","Rural",9277,24.9,"Unknown",0
+"2652",17270,"Female",56,0,0,1,"Private","Urban",8212,32.5,"smokes",0
+"2654",56976,"Female",42,0,0,1,"Private","Urban",9601,38.7,"Unknown",0
+"2655",37299,"Male",57,0,0,1,"Private","Urban",10749,29.5,"never smoked",0
+"2658",10973,"Male",43,0,0,1,"Private","Urban",9113,33.9,"never smoked",0
+"2659",3816,"Male",62,0,0,1,"Private","Rural",8072,26,"formerly smoked",0
+"2663",28183,"Female",13,0,0,0,"children","Urban",7578,23.6,"Unknown",0
+"2667",22254,"Female",76,0,0,1,"Private","Rural",11368,22.8,"Unknown",0
+"2671",67880,"Male",5,0,0,0,"children","Urban",14852,20.6,"Unknown",0
+"2674",6233,"Male",70,1,0,1,"Self-employed","Rural",11881,26,"smokes",0
+"2675",52225,"Male",24,0,0,0,"Private","Urban",8416,37.5,"smokes",0
+"2680",9730,"Male",27,0,0,1,"Private","Urban",7619,22,"never smoked",0
+"2684",4913,"Female",57,0,0,1,"Private","Rural",9385,29.1,"never smoked",0
+"2685",20676,"Male",29,0,0,0,"Private","Rural",9469,28.4,"smokes",0
+"2688",20290,"Female",5,0,0,0,"children","Rural",9303,16.3,"Unknown",0
+"2693",19699,"Female",50,0,0,0,"Private","Urban",8577,21.1,"never smoked",0
+"2694",205,"Female",43,0,0,1,"Private","Rural",8823,37.6,"Unknown",0
+"2695",54805,"Female",27,0,0,0,"Self-employed","Urban",7365,24.8,"Unknown",0
+"2697",9107,"Female",8,0,0,0,"children","Rural",9265,17.5,"Unknown",0
+"2698",58833,"Male",14,0,0,0,"Private","Rural",6104,17.6,"Unknown",0
+"2700",55462,"Male",6,0,0,0,"children","Urban",12339,15.2,"Unknown",0
+"2701",51746,"Female",37,0,0,1,"Govt_job","Rural",6707,27.4,"never smoked",0
+"2703",65644,"Male",3,0,0,0,"children","Urban",5702,16.1,"Unknown",0
+"2707",51963,"Male",58,0,0,1,"Private","Urban",6924,27.6,"never smoked",0
+"2708",13375,"Male",76,0,0,1,"Private","Urban",19239,31,"never smoked",0
+"2716",42938,"Male",64,0,0,0,"children","Urban",604,17.3,"Unknown",0
+"2718",5464,"Male",32,0,0,1,"Private","Rural",7096,33.1,"Unknown",0
+"2721",38354,"Female",62,0,0,1,"Self-employed","Urban",9182,19.6,"Unknown",0
+"2722",15566,"Male",39,0,0,1,"Private","Rural",9185,24.7,"smokes",0
+"2727",62923,"Female",17,0,0,0,"Private","Urban",8739,24.6,"Unknown",0
+"2729",17236,"Female",3,0,0,0,"children","Urban",6661,17.4,"Unknown",0
+"2730",27566,"Male",65,0,0,1,"Private","Rural",23614,43.1,"Unknown",0
+"2737",64974,"Male",24,0,0,0,"children","Urban",5835,18.6,"Unknown",0
+"2740",4699,"Male",50,0,0,0,"Govt_job","Rural",12117,25.5,"formerly smoked",0
+"2743",28478,"Female",31,0,0,1,"Private","Urban",8218,42.7,"never smoked",0
+"2747",28400,"Male",69,0,0,1,"Self-employed","Urban",9273,27.7,"never smoked",0
+"2748",5841,"Female",23,0,0,0,"Private","Urban",8611,22.3,"never smoked",0
+"2749",5681,"Male",46,0,0,1,"Private","Rural",11178,39.4,"smokes",0
+"2750",16587,"Female",16,0,0,0,"Private","Urban",12226,34.2,"never smoked",0
+"2752",23890,"Female",44,1,0,1,"Govt_job","Rural",10577,36.8,"never smoked",0
+"2759",47810,"Male",8,0,0,0,"children","Rural",10797,26.7,"Unknown",0
+"2762",56804,"Female",34,0,0,0,"Govt_job","Urban",6036,24.1,"never smoked",0
+"2763",45099,"Male",25,0,0,1,"Self-employed","Urban",8333,31.5,"Unknown",0
+"2764",22221,"Female",35,0,0,1,"Self-employed","Urban",6533,26.1,"never smoked",0
+"2765",57134,"Male",15,0,0,0,"children","Urban",11328,23.7,"never smoked",0
+"2766",6132,"Male",4,0,0,0,"children","Urban",10334,18.8,"Unknown",0
+"2768",51497,"Male",28,0,0,1,"Self-employed","Urban",15645,24.3,"never smoked",0
+"2771",9079,"Female",76,0,1,1,"Self-employed","Urban",20221,39.3,"formerly smoked",0
+"2775",33779,"Male",46,0,1,1,"Govt_job","Urban",8001,33,"formerly smoked",0
+"2776",52367,"Male",46,0,0,1,"Private","Urban",5842,24.7,"formerly smoked",0
+"2778",18366,"Female",29,0,0,1,"Self-employed","Rural",7358,29.8,"Unknown",0
+"2781",5350,"Female",36,0,0,1,"Private","Rural",10376,27.1,"never smoked",0
+"2782",3428,"Female",61,0,0,1,"Self-employed","Urban",7706,27,"never smoked",0
+"2783",62552,"Female",9,0,0,0,"children","Rural",9022,18.7,"Unknown",0
+"2788",11392,"Male",75,0,0,1,"Private","Rural",7073,26.7,"smokes",0
+"2791",52489,"Female",18,0,0,0,"Private","Urban",7054,23.5,"Unknown",0
+"2794",259,"Male",79,0,0,1,"Private","Urban",19879,24.9,"never smoked",0
+"2795",12092,"Male",16,0,0,0,"Private","Rural",9039,26.5,"never smoked",0
+"2800",26605,"Female",39,0,0,1,"Private","Rural",10251,26.6,"smokes",0
+"2806",53923,"Female",22,0,0,0,"Private","Urban",11311,19.8,"Unknown",0
+"2813",40870,"Female",75,0,0,1,"Govt_job","Urban",7389,20.9,"Unknown",0
+"2816",1534,"Female",61,0,0,1,"Private","Rural",9935,26.1,"smokes",0
+"2823",20006,"Female",15,0,0,0,"Private","Urban",7677,21.7,"Unknown",0
+"2826",5032,"Female",47,0,0,1,"Private","Rural",6501,21.7,"formerly smoked",0
+"2828",52236,"Female",60,0,0,1,"Private","Rural",23078,40.2,"never smoked",0
+"2831",4750,"Male",78,0,0,1,"Private","Urban",8503,26.1,"formerly smoked",0
+"2832",65127,"Female",35,0,0,1,"Private","Urban",8076,28.8,"smokes",0
+"2833",32203,"Female",57,0,0,1,"Self-employed","Rural",9536,32.4,"formerly smoked",0
+"2834",27436,"Male",12,0,0,0,"children","Urban",11033,20.4,"Unknown",0
+"2836",4213,"Male",33,0,0,0,"Self-employed","Rural",9153,38.8,"formerly smoked",0
+"2838",36803,"Female",35,0,0,0,"Private","Rural",7453,24.6,"never smoked",0
+"2843",19364,"Female",7,0,0,0,"children","Rural",7496,18.8,"Unknown",0
+"2847",52968,"Female",45,0,0,1,"Self-employed","Rural",14915,33.5,"Unknown",0
+"2849",51421,"Female",54,0,0,1,"Private","Rural",6538,25.9,"Unknown",0
+"2853",37253,"Female",70,1,0,1,"Private","Urban",14712,22.3,"formerly smoked",0
+"2857",32127,"Female",26,0,0,1,"Govt_job","Urban",8469,25,"never smoked",0
+"2858",69834,"Female",57,0,0,1,"Govt_job","Rural",871,48.3,"smokes",0
+"2859",56311,"Female",16,0,0,0,"Private","Rural",8192,22.7,"Unknown",0
+"2863",67521,"Female",40,1,0,1,"Private","Urban",12448,38.5,"Unknown",0
+"2864",65688,"Male",2,0,1,0,"children","Urban",6289,29.4,"Unknown",0
+"2865",58761,"Male",52,0,0,1,"Private","Urban",8751,30.5,"formerly smoked",0
+"2866",21192,"Female",78,0,0,1,"Private","Urban",9315,23.6,"Unknown",0
+"2867",72348,"Female",22,0,0,0,"Private","Urban",6487,20.6,"Unknown",0
+"2868",1825,"Male",33,0,0,1,"Self-employed","Urban",9068,31.7,"smokes",0
+"2874",57210,"Female",28,0,0,1,"Private","Rural",1318,30.3,"never smoked",0
+"2877",17198,"Female",10,0,0,0,"children","Rural",8337,17.8,"formerly smoked",0
+"2880",40602,"Female",22,0,0,0,"Private","Urban",6252,38.2,"never smoked",0
+"2882",41618,"Male",61,0,0,0,"Private","Rural",14007,29.5,"never smoked",0
+"2885",10436,"Female",29,0,0,1,"Private","Rural",10207,31.8,"never smoked",0
+"2890",57183,"Male",13,0,0,0,"children","Rural",6916,22.3,"Unknown",0
+"2899",9160,"Female",80,1,0,1,"Private","Urban",9077,26,"never smoked",0
+"2901",67343,"Female",57,0,0,1,"Private","Rural",8142,35.8,"never smoked",0
+"2904",60358,"Female",51,0,0,1,"Private","Urban",10211,23.1,"never smoked",0
+"2908",51177,"Female",49,0,0,1,"Private","Urban",6768,24.8,"formerly smoked",0
+"2912",66270,"Female",57,0,0,1,"Private","Rural",694,24,"Unknown",0
+"2919",69918,"Female",38,1,0,1,"Private","Rural",10946,41.5,"never smoked",0
+"2923",71419,"Male",12,0,0,0,"children","Urban",9735,37.3,"Unknown",0
+"2925",31932,"Female",13,0,0,0,"children","Urban",7655,29.1,"Unknown",0
+"2931",23171,"Male",66,0,0,1,"Private","Rural",8883,29.1,"Unknown",0
+"2934",355,"Male",8,0,0,0,"children","Rural",9643,25.7,"Unknown",0
+"2938",26468,"Female",45,0,0,1,"Govt_job","Urban",8202,41.8,"smokes",0
+"2943",15230,"Female",9,0,0,0,"children","Rural",8055,15.1,"Unknown",0
+"2947",60533,"Female",23,0,0,0,"Private","Rural",9195,23,"Unknown",0
+"2949",49848,"Male",52,0,0,1,"Private","Rural",6378,29.9,"never smoked",0
+"2950",65413,"Female",64,0,0,1,"Private","Urban",5564,43.4,"never smoked",0
+"2955",7577,"Male",13,0,0,0,"children","Urban",7585,20.3,"Unknown",0
+"2956",34400,"Female",77,1,0,1,"Self-employed","Rural",17671,33.2,"never smoked",0
+"2960",33532,"Female",73,0,1,1,"Private","Rural",10246,29.7,"never smoked",0
+"2965",59232,"Female",52,0,0,1,"Self-employed","Urban",8959,27.5,"Unknown",0
+"2967",21917,"Male",43,0,0,1,"Govt_job","Rural",11069,35.6,"Unknown",0
+"2971",13358,"Female",75,0,0,1,"Self-employed","Rural",20762,31.8,"never smoked",0
+"2975",69979,"Male",73,0,0,1,"Self-employed","Rural",23143,23,"smokes",0
+"2982",17771,"Female",64,1,0,1,"Govt_job","Urban",21112,22,"never smoked",0
+"2984",34356,"Female",75,0,0,1,"Private","Rural",10872,29.2,"formerly smoked",0
+"2986",10624,"Male",24,0,0,1,"Private","Rural",7378,21.4,"smokes",0
+"2987",36375,"Male",50,0,0,1,"Private","Rural",5948,26.6,"Unknown",0
+"2995",66841,"Male",30,0,0,0,"Private","Rural",6187,23.9,"Unknown",0
+"2996",38900,"Female",52,0,0,1,"Private","Urban",6888,26.1,"Unknown",0
+"3003",4964,"Female",72,1,0,1,"Private","Rural",9087,22.1,"never smoked",0
+"3004",15020,"Female",37,0,0,0,"Govt_job","Rural",7621,20.4,"Unknown",0
+"3005",27380,"Female",36,0,0,1,"Private","Rural",7414,31.2,"formerly smoked",0
+"3016",24177,"Female",57,1,0,1,"Private","Urban",9077,43.9,"formerly smoked",0
+"3018",59992,"Female",63,1,0,1,"Self-employed","Urban",2282,37.7,"never smoked",0
+"3019",27382,"Female",50,0,0,1,"Govt_job","Urban",9215,20.8,"never smoked",0
+"3020",61017,"Female",12,0,0,0,"children","Urban",12632,21.6,"Unknown",0
+"3021",61699,"Male",80,0,0,1,"Private","Rural",9496,22.1,"formerly smoked",0
+"3024",38348,"Female",66,0,0,1,"Private","Urban",801,32,"never smoked",0
+"3026",11792,"Female",70,0,0,1,"Private","Urban",9049,28.9,"formerly smoked",0
+"3029",49554,"Male",67,0,0,1,"Private","Rural",6551,33.2,"formerly smoked",0
+"3033",32602,"Male",78,0,1,1,"Self-employed","Urban",8777,30.8,"Unknown",0
+"3034",3379,"Female",61,0,0,1,"Private","Urban",8752,23.7,"Unknown",0
+"3035",41146,"Male",41,0,0,1,"Private","Rural",11365,49.3,"never smoked",0
+"3036",20391,"Female",73,0,0,1,"Govt_job","Rural",6593,30.3,"never smoked",0
+"3037",69379,"Female",64,1,0,1,"Self-employed","Urban",9378,24.4,"never smoked",0
+"3038",34778,"Male",65,0,0,1,"Private","Rural",2239,28.2,"formerly smoked",0
+"3043",71414,"Female",2,0,0,0,"children","Urban",12503,19.8,"Unknown",0
+"3045",69050,"Male",54,0,0,1,"Private","Urban",8581,21.7,"formerly smoked",0
+"3046",52080,"Female",26,0,0,0,"Private","Rural",8527,24.6,"never smoked",0
+"3047",27493,"Female",45,0,0,1,"Private","Urban",8606,38.1,"never smoked",0
+"3052",4280,"Female",51,0,0,1,"Govt_job","Rural",10552,30.8,"never smoked",0
+"3053",22896,"Female",54,0,0,1,"Private","Rural",10927,43.8,"formerly smoked",0
+"3058",41593,"Female",76,0,0,1,"Self-employed","Rural",7029,33.4,"formerly smoked",0
+"3061",15803,"Female",45,0,0,1,"Private","Rural",7387,25.6,"Unknown",0
+"3062",71597,"Female",79,1,0,1,"Private","Rural",6444,26.9,"formerly smoked",0
+"3063",22804,"Female",25,0,0,0,"Private","Rural",11165,35.2,"formerly smoked",0
+"3064",64498,"Female",53,0,0,1,"Private","Rural",9065,22.1,"formerly smoked",0
+"3070",50001,"Female",34,0,0,1,"Govt_job","Rural",8636,32.1,"smokes",0
+"3072",8950,"Female",15,0,0,0,"Private","Urban",11357,27.5,"formerly smoked",0
+"3074",14288,"Female",71,0,0,1,"Private","Rural",9185,27.6,"formerly smoked",0
+"3076",13899,"Male",30,0,0,1,"Private","Urban",7955,33.7,"never smoked",0
+"3078",6011,"Male",9,0,0,0,"children","Urban",7824,15.3,"Unknown",0
+"3081",24836,"Female",61,0,0,1,"Private","Rural",7201,26,"formerly smoked",0
+"3083",25613,"Female",27,0,0,1,"Private","Urban",7056,28.6,"smokes",0
+"3087",72082,"Female",45,0,0,1,"Self-employed","Rural",6976,25.3,"smokes",0
+"3089",34077,"Male",46,0,0,1,"Govt_job","Rural",10227,38.9,"formerly smoked",0
+"3093",44986,"Female",79,0,0,1,"Self-employed","Urban",7832,32,"Unknown",0
+"3094",2633,"Male",32,0,0,1,"Private","Rural",715,31.8,"never smoked",0
+"3100",247,"Male",31,0,0,0,"Private","Urban",726,31.6,"never smoked",0
+"3101",7979,"Female",26,0,0,0,"Private","Rural",6977,23.2,"never smoked",0
+"3103",3984,"Female",33,0,0,1,"Private","Rural",8413,26.3,"never smoked",0
+"3110",24245,"Male",55,0,0,1,"Private","Urban",9097,32.1,"Unknown",0
+"3116",71447,"Male",52,0,1,1,"Private","Urban",12449,29,"never smoked",0
+"3117",61437,"Male",15,0,0,0,"Govt_job","Rural",14282,27.6,"never smoked",0
+"3118",50428,"Male",2,0,0,0,"children","Rural",7569,17.7,"Unknown",0
+"3128",37025,"Female",2,0,0,0,"children","Urban",11402,18.1,"Unknown",0
+"3132",17893,"Female",82,0,0,1,"Self-employed","Urban",8478,33.6,"formerly smoked",0
+"3136",9955,"Female",58,0,0,0,"Private","Urban",8393,25.6,"formerly smoked",0
+"3139",8168,"Female",34,0,0,1,"Private","Rural",11254,23.4,"formerly smoked",0
+"3142",42348,"Male",72,0,1,1,"Self-employed","Urban",6386,29.5,"smokes",0
+"3151",32317,"Female",41,0,0,1,"Private","Urban",8072,34.1,"smokes",0
+"3154",5655,"Male",4,0,0,0,"children","Urban",8313,16.8,"Unknown",0
+"3160",7953,"Female",45,0,0,1,"Private","Rural",9221,31,"never smoked",0
+"3161",65508,"Male",80,0,0,1,"Govt_job","Urban",14872,28.7,"never smoked",0
+"3162",68539,"Female",19,0,0,0,"Private","Urban",7925,23.6,"Unknown",0
+"3167",49974,"Male",49,0,0,1,"Private","Rural",6655,33.4,"Unknown",0
+"3170",2972,"Male",55,0,0,0,"Govt_job","Rural",8865,18.1,"formerly smoked",0
+"3178",66973,"Male",43,0,0,1,"Private","Urban",9271,30.5,"formerly smoked",0
+"3181",17623,"Male",41,0,0,0,"Self-employed","Urban",8744,33.5,"Unknown",0
+"3183",54294,"Female",65,0,0,1,"Govt_job","Urban",7939,31.5,"formerly smoked",0
+"3186",16109,"Male",63,0,0,1,"Private","Urban",10552,37.9,"formerly smoked",0
+"3189",12003,"Female",75,0,0,1,"Private","Rural",22673,43.7,"never smoked",0
+"3191",62090,"Male",51,0,0,0,"Self-employed","Rural",21917,29.8,"never smoked",0
+"3194",44759,"Male",57,0,0,1,"Private","Urban",21592,27.4,"smokes",0
+"3195",52234,"Female",72,0,0,1,"Govt_job","Urban",10405,33.5,"never smoked",0
+"3198",5068,"Female",28,0,0,0,"Private","Urban",7681,28.3,"smokes",0
+"3203",63898,"Female",53,1,0,1,"Private","Urban",24086,31.9,"never smoked",0
+"3206",27125,"Female",17,0,0,0,"Private","Urban",8113,22.8,"never smoked",0
+"3209",6289,"Female",15,0,0,0,"children","Urban",8051,21.5,"Unknown",0
+"3213",34257,"Male",17,0,0,0,"Govt_job","Urban",6891,23,"Unknown",0
+"3221",56996,"Male",44,0,0,1,"Private","Urban",6541,24.8,"smokes",0
+"3222",28315,"Male",38,0,0,1,"Private","Rural",10868,32.7,"never smoked",0
+"3225",27916,"Male",18,0,0,0,"Private","Urban",9739,22.8,"never smoked",0
+"3230",38938,"Female",24,0,0,0,"Private","Rural",1597,25.7,"Unknown",0
+"3233",3003,"Female",51,0,0,1,"Govt_job","Rural",8559,30.5,"never smoked",0
+"3236",22003,"Male",66,0,0,1,"Private","Rural",8111,28.8,"formerly smoked",0
+"3238",55370,"Female",53,0,0,1,"Private","Urban",20771,32.4,"Unknown",0
+"3241",8264,"Male",41,0,0,1,"Self-employed","Rural",1059,27.7,"Unknown",0
+"3244",27518,"Male",14,0,0,0,"Self-employed","Rural",7228,19,"Unknown",0
+"3246",33115,"Male",32,0,0,1,"Private","Rural",8268,29.2,"never smoked",0
+"3247",31701,"Male",16,0,0,0,"Private","Rural",12589,21.3,"never smoked",0
+"3249",18837,"Male",56,0,0,0,"children","Urban",9823,14.1,"Unknown",0
+"3251",62610,"Male",32,0,0,1,"Private","Urban",1199,30.9,"smokes",0
+"3254",22607,"Female",41,0,0,1,"Private","Urban",10379,28.6,"never smoked",0
+"3255",11595,"Female",21,0,0,0,"Private","Urban",8851,20.5,"never smoked",0
+"3259",14912,"Female",42,0,0,1,"Private","Rural",80,27.5,"never smoked",0
+"3260",49939,"Female",54,0,0,1,"Self-employed","Urban",5675,26.9,"never smoked",0
+"3261",64534,"Female",25,0,0,1,"Private","Urban",10466,23.9,"never smoked",0
+"3265",1112,"Female",14,0,0,0,"Private","Urban",8342,28.7,"never smoked",0
+"3266",13276,"Female",38,0,0,1,"Private","Urban",7106,22.6,"Unknown",0
+"3271",55169,"Male",34,0,0,1,"Private","Rural",7264,32.4,"never smoked",0
+"3273",62513,"Female",28,0,0,1,"Private","Rural",14116,36.7,"never smoked",0
+"3278",54101,"Female",58,0,0,1,"Self-employed","Rural",5757,26.8,"Unknown",0
+"3279",12259,"Male",50,0,0,1,"Private","Urban",7782,26.7,"formerly smoked",0
+"3281",22548,"Female",34,0,0,1,"Private","Urban",9102,25.8,"never smoked",0
+"3282",65407,"Female",64,0,0,1,"Self-employed","Rural",6546,32.5,"formerly smoked",0
+"3285",52472,"Male",14,0,0,0,"children","Urban",7454,25.2,"Unknown",0
+"3287",3167,"Male",53,0,1,1,"Private","Urban",9157,30.1,"formerly smoked",0
+"3288",56469,"Male",67,0,0,1,"Private","Urban",23878,35.7,"formerly smoked",0
+"3295",65731,"Male",57,0,0,1,"Self-employed","Urban",8364,29.4,"smokes",0
+"3297",57539,"Female",68,0,0,1,"Private","Rural",23359,43.9,"never smoked",0
+"3298",17745,"Male",79,1,0,1,"Self-employed","Urban",8488,28.7,"formerly smoked",0
+"3302",10323,"Female",66,0,0,1,"Private","Urban",11277,22.7,"smokes",0
+"3308",50216,"Male",44,1,0,1,"Self-employed","Rural",18813,44.7,"formerly smoked",0
+"3309",59506,"Male",14,0,0,0,"Private","Rural",1647,26.3,"Unknown",0
+"3310",43397,"Male",81,0,1,1,"Self-employed","Rural",6827,25,"Unknown",0
+"3311",10651,"Male",54,1,0,1,"Govt_job","Rural",10012,32.3,"formerly smoked",0
+"3322",49267,"Female",55,0,0,1,"Private","Urban",1021,22.5,"formerly smoked",0
+"3323",60464,"Male",52,0,0,1,"Private","Urban",9737,26.5,"smokes",0
+"3326",53302,"Female",24,0,0,1,"Private","Rural",130,25.9,"formerly smoked",0
+"3329",13173,"Male",70,1,0,1,"Private","Urban",21477,15,"formerly smoked",0
+"3334",61672,"Female",11,0,0,0,"children","Urban",6968,14.4,"Unknown",0
+"3340",20655,"Male",16,0,0,0,"Private","Rural",9496,21.5,"never smoked",0
+"3343",15990,"Male",65,1,0,1,"Govt_job","Rural",18988,34,"never smoked",0
+"3348",18891,"Male",24,0,0,0,"Govt_job","Rural",9965,50.3,"never smoked",0
+"3349",34657,"Female",44,0,0,1,"Self-employed","Urban",8233,24.5,"never smoked",0
+"3351",56755,"Male",41,0,0,1,"Private","Rural",10871,24,"never smoked",0
+"3354",69020,"Female",74,0,0,1,"Private","Urban",835,25.8,"never smoked",0
+"3355",48883,"Male",61,0,0,1,"Govt_job","Rural",19247,30.3,"never smoked",0
+"3356",71297,"Female",80,1,0,1,"Private","Urban",12589,28.9,"smokes",0
+"3357",52216,"Female",35,0,0,1,"Private","Urban",8772,21.3,"never smoked",0
+"3362",47309,"Male",9,0,0,0,"children","Urban",8774,17.1,"Unknown",0
+"3364",57405,"Male",53,0,0,1,"Self-employed","Urban",10337,26.9,"formerly smoked",0
+"3365",15824,"Female",67,0,0,1,"Private","Rural",8168,30.4,"never smoked",0
+"3367",71420,"Male",27,0,0,0,"Govt_job","Rural",6512,41.1,"smokes",0
+"3371",65507,"Male",33,0,0,1,"Private","Rural",5572,38.2,"never smoked",0
+"3377",31590,"Male",22,0,0,0,"Private","Urban",1111,26.6,"never smoked",0
+"3381",3531,"Male",41,0,0,1,"Private","Rural",8397,28.5,"formerly smoked",0
+"3382",6529,"Female",20,0,0,0,"Private","Urban",9855,21.3,"never smoked",0
+"3383",22272,"Female",71,1,0,1,"Private","Rural",20298,41.3,"never smoked",0
+"3389",12906,"Female",55,0,0,1,"Self-employed","Rural",9532,26.8,"never smoked",0
+"3394",44656,"Female",69,1,0,1,"Private","Rural",11269,33.5,"formerly smoked",0
+"3395",59801,"Female",61,0,0,1,"Private","Urban",6061,24.5,"never smoked",0
+"3398",41122,"Female",62,0,0,1,"Private","Rural",22638,47.4,"never smoked",0
+"3402",4850,"Male",51,0,0,1,"Private","Rural",11279,27.2,"never smoked",0
+"3405",54962,"Female",27,0,0,0,"Private","Urban",8205,21,"Unknown",0
+"3409",14872,"Male",45,1,0,1,"Self-employed","Rural",23919,52.5,"Unknown",0
+"3410",57598,"Female",64,0,0,1,"Private","Rural",7845,27,"formerly smoked",0
+"3411",70022,"Male",32,0,0,0,"Private","Rural",6111,32.7,"never smoked",0
+"3413",28344,"Male",34,0,0,1,"Private","Urban",8315,32.1,"Unknown",0
+"3416",48459,"Male",61,0,0,1,"Self-employed","Urban",11194,26.5,"smokes",0
+"3417",68843,"Male",30,0,0,1,"Private","Rural",10477,19.2,"smokes",0
+"3418",27523,"Female",18,0,0,0,"Private","Urban",10426,25.9,"Unknown",0
+"3419",61651,"Male",48,0,0,1,"Private","Rural",11384,21.9,"never smoked",0
+"3423",7003,"Female",27,0,0,1,"Private","Rural",11196,28.2,"never smoked",0
+"3425",13817,"Male",19,0,0,0,"Private","Urban",12361,25.2,"Unknown",0
+"3427",40210,"Male",78,0,1,1,"Self-employed","Rural",20662,28,"formerly smoked",0
+"3431",20140,"Male",58,0,0,1,"Govt_job","Rural",20492,39.6,"never smoked",0
+"3432",46903,"Female",62,0,0,1,"Private","Urban",5674,28.9,"never smoked",0
+"3436",43549,"Female",40,1,0,1,"Private","Rural",8159,27.2,"never smoked",0
+"3444",59749,"Male",81,0,0,1,"Private","Urban",23435,25.3,"formerly smoked",0
+"3447",31712,"Female",53,0,0,1,"Private","Urban",8838,25.4,"never smoked",0
+"3449",18866,"Female",75,0,0,1,"Self-employed","Urban",9695,41.4,"never smoked",0
+"3457",6639,"Male",4,0,0,0,"children","Rural",10019,18.7,"Unknown",0
+"3468",11651,"Female",25,0,0,1,"Private","Rural",8121,37.9,"never smoked",0
+"3479",18181,"Male",44,0,0,1,"Private","Rural",10549,31.5,"smokes",0
+"3482",27647,"Male",80,0,1,1,"Self-employed","Rural",9549,31.6,"Unknown",0
+"3485",2291,"Female",80,1,0,1,"Self-employed","Urban",218,33.5,"Unknown",0
+"3487",38575,"Male",58,1,0,1,"Self-employed","Rural",20915,52.9,"formerly smoked",0
+"3488",29326,"Female",75,0,0,1,"Self-employed","Rural",7022,24.8,"formerly smoked",0
+"3490",52051,"Female",75,0,0,1,"Self-employed","Urban",606,40.4,"smokes",0
+"3492",36593,"Male",38,0,0,0,"Private","Rural",16272,31.9,"smokes",0
+"3496",479,"Female",59,1,0,1,"Private","Rural",7828,31,"formerly smoked",0
+"3498",56075,"Female",58,0,0,1,"Private","Rural",1965,37.7,"never smoked",0
+"3504",4128,"Female",55,0,0,1,"Private","Rural",767,39.7,"formerly smoked",0
+"3507",12674,"Male",44,0,0,1,"Private","Rural",7415,34.5,"formerly smoked",0
+"3508",55375,"Male",69,1,0,1,"Private","Rural",7329,29.4,"never smoked",0
+"3514",49095,"Female",16,0,0,0,"children","Urban",6451,21.2,"Unknown",0
+"3516",43492,"Female",7,0,0,0,"children","Urban",11395,16,"Unknown",0
+"3524",20625,"Male",51,1,0,1,"Private","Urban",761,32.1,"smokes",0
+"3530",34287,"Female",73,0,0,1,"Self-employed","Rural",9869,27.6,"Unknown",0
+"3534",20154,"Female",41,0,0,1,"Private","Rural",8248,33.5,"Unknown",0
+"3544",23170,"Female",36,0,0,0,"Private","Urban",961,29.6,"never smoked",0
+"3547",18943,"Male",26,0,0,0,"Govt_job","Rural",7674,29.8,"Unknown",0
+"3548",45472,"Male",22,0,0,1,"Private","Urban",13855,24,"never smoked",0
+"3550",30201,"Female",54,0,0,1,"Private","Urban",7516,38,"never smoked",0
+"3558",2327,"Female",25,0,0,0,"Private","Rural",7672,21.5,"Unknown",0
+"3560",458,"Female",37,0,0,1,"Govt_job","Urban",7209,24.1,"smokes",0
+"3561",57044,"Male",58,0,0,1,"Private","Urban",8805,30.6,"Unknown",0
+"3566",31454,"Female",38,0,0,1,"Govt_job","Rural",9393,21.5,"never smoked",0
+"3575",5006,"Female",46,0,0,1,"Self-employed","Rural",8584,21.2,"never smoked",0
+"3577",41858,"Female",63,0,1,1,"Private","Rural",8621,39.1,"never smoked",0
+"3580",34965,"Female",18,0,0,0,"Private","Urban",9587,23,"never smoked",0
+"3581",65748,"Female",46,0,0,1,"Private","Urban",18045,22.5,"never smoked",0
+"3585",44259,"Female",74,0,0,1,"Private","Urban",13037,26.3,"Unknown",0
+"3594",18876,"Female",28,0,0,1,"Private","Urban",695,24.5,"never smoked",0
+"3595",365,"Female",44,1,0,1,"Private","Rural",6948,41.3,"never smoked",0
+"3596",37631,"Male",50,0,0,1,"Govt_job","Urban",8918,34.8,"smokes",0
+"3597",5500,"Female",50,0,1,1,"Govt_job","Urban",6809,35.5,"smokes",0
+"3600",22155,"Female",39,0,0,1,"Private","Urban",7824,28.6,"Unknown",0
+"3601",22860,"Female",65,0,0,1,"Govt_job","Rural",8466,22.4,"never smoked",0
+"3605",17347,"Female",45,0,0,1,"Govt_job","Urban",8564,32,"formerly smoked",0
+"3622",64662,"Female",23,0,0,0,"Private","Rural",5801,35.3,"never smoked",0
+"3624",50495,"Male",58,1,0,1,"Private","Rural",10627,28.6,"never smoked",0
+"3627",27854,"Female",23,0,0,0,"Private","Rural",9628,31.1,"never smoked",0
+"3628",53759,"Male",56,0,0,1,"Self-employed","Urban",12273,37.5,"formerly smoked",0
+"3630",887,"Female",14,0,0,0,"Private","Urban",6974,24.2,"formerly smoked",0
+"3636",6948,"Male",8,0,0,0,"children","Urban",9153,18,"Unknown",0
+"3637",66083,"Male",62,0,0,1,"Private","Rural",14546,40.1,"never smoked",0
+"3639",70992,"Female",8,0,0,0,"children","Urban",7442,22.5,"Unknown",0
+"3648",59540,"Female",19,0,0,0,"Private","Rural",5685,21.1,"never smoked",0
+"3649",13857,"Male",32,0,0,0,"children","Urban",8904,17.8,"Unknown",0
+"3650",57924,"Female",45,0,0,1,"Govt_job","Rural",6301,31.5,"never smoked",0
+"3654",67665,"Male",2,0,0,0,"children","Urban",6521,17.2,"Unknown",0
+"3658",14019,"Female",58,0,0,1,"Private","Urban",9621,23.5,"never smoked",0
+"3674",9926,"Male",20,0,0,0,"Private","Urban",872,28.9,"smokes",0
+"3679",41554,"Female",50,0,0,1,"Private","Rural",6525,25.4,"smokes",0
+"3681",41049,"Female",30,0,0,1,"Private","Rural",12437,21.4,"never smoked",0
+"3687",71417,"Male",46,0,0,0,"Private","Urban",15967,37.3,"never smoked",0
+"3690",17791,"Female",29,0,0,1,"Govt_job","Rural",9249,22.2,"never smoked",0
+"3695",4077,"Male",49,0,0,1,"Private","Urban",2197,53.8,"Unknown",0
+"3696",36548,"Male",31,0,0,1,"Govt_job","Urban",657,30.4,"formerly smoked",0
+"3700",34895,"Male",61,0,0,1,"Private","Urban",6817,43.8,"formerly smoked",0
+"3702",67635,"Male",24,0,0,0,"Private","Urban",90,25.5,"never smoked",0
+"3706",54982,"Female",7,0,0,0,"children","Rural",15701,17,"Unknown",0
+"3708",21101,"Male",71,0,0,1,"Private","Rural",6799,31.1,"never smoked",0
+"3709",39958,"Male",18,0,0,0,"Private","Rural",11893,22.4,"never smoked",0
+"3712",56137,"Female",62,0,0,1,"Private","Urban",8832,36.3,"Unknown",0
+"3715",38613,"Female",50,0,0,1,"Govt_job","Rural",6212,29.6,"never smoked",0
+"3718",50845,"Female",32,0,0,1,"Govt_job","Urban",10113,43.9,"formerly smoked",0
+"3719",44628,"Female",38,0,0,1,"Private","Rural",9109,22.2,"never smoked",0
+"3727",21333,"Male",56,1,0,1,"Private","Rural",20666,21.9,"smokes",0
+"3736",62990,"Female",55,0,0,1,"Govt_job","Rural",9964,20.1,"formerly smoked",0
+"3744",55356,"Female",80,0,0,1,"Self-employed","Urban",22326,25.4,"never smoked",0
+"3745",49400,"Male",75,0,0,1,"Private","Rural",9722,28.4,"never smoked",0
+"3747",50136,"Female",54,1,0,1,"Private","Urban",22183,35.1,"smokes",0
+"3748",3094,"Male",28,0,0,0,"Private","Urban",7461,32.7,"Unknown",0
+"3756",10541,"Male",52,1,0,1,"Private","Rural",10071,37,"never smoked",0
+"3759",7069,"Female",41,0,0,1,"Private","Rural",10239,40.4,"formerly smoked",0
+"3760",52050,"Male",20,0,0,0,"Private","Urban",5967,27.7,"never smoked",0
+"3764",42700,"Female",52,0,0,1,"Private","Rural",20046,25,"Unknown",0
+"3765",7638,"Female",51,0,0,1,"Private","Urban",957,24.8,"formerly smoked",0
+"3771",68291,"Male",76,0,0,1,"Private","Urban",1475,28.7,"Unknown",0
+"3772",70661,"Female",28,0,0,0,"Private","Rural",13412,28.8,"formerly smoked",0
+"3773",6019,"Female",57,0,0,1,"Private","Urban",8262,28.4,"never smoked",0
+"3775",14399,"Female",41,0,0,1,"Private","Urban",9214,29.6,"formerly smoked",0
+"3780",62396,"Female",27,0,0,1,"Private","Urban",1392,36.2,"never smoked",0
+"3784",46141,"Female",24,0,0,0,"Private","Rural",14774,21.4,"Unknown",0
+"3790",69847,"Female",30,0,0,1,"Self-employed","Urban",767,24.2,"never smoked",0
+"3793",36388,"Male",44,1,0,1,"Private","Rural",9128,26.5,"never smoked",0
+"3794",49272,"Male",59,0,0,1,"Govt_job","Urban",12919,30.6,"never smoked",0
+"3796",58508,"Female",18,0,0,0,"Govt_job","Rural",11233,23.2,"formerly smoked",0
+"3798",29453,"Male",16,0,0,0,"children","Rural",9158,15.8,"Unknown",0
+"3799",52838,"Male",13,0,0,0,"children","Urban",5886,16.9,"never smoked",0
+"3804",27624,"Female",58,0,0,1,"Self-employed","Rural",8196,34.6,"never smoked",0
+"3808",59916,"Female",56,0,0,1,"Private","Rural",20098,30.4,"smokes",0
+"3810",12990,"Male",9,0,0,0,"children","Rural",8417,17.4,"Unknown",0
+"3816",39769,"Female",59,0,0,1,"Self-employed","Urban",8214,35.6,"smokes",0
+"3821",14993,"Male",5,0,0,0,"children","Rural",6728,17.7,"Unknown",0
+"3823",22554,"Female",13,0,0,0,"children","Rural",8851,27.7,"Unknown",0
+"3830",52530,"Male",55,0,0,1,"Govt_job","Urban",23115,22.3,"never smoked",0
+"3834",52439,"Male",68,0,1,1,"Private","Rural",9614,26.7,"never smoked",0
+"3852",71659,"Female",70,0,0,1,"Govt_job","Rural",15833,33.5,"never smoked",0
+"3854",9602,"Female",49,0,0,1,"Private","Urban",7218,30.8,"Unknown",0
+"3856",72011,"Male",51,0,0,0,"Self-employed","Rural",8715,26.4,"formerly smoked",0
+"3857",40568,"Female",10,0,0,0,"children","Urban",8259,18.6,"formerly smoked",0
+"3858",50206,"Female",34,0,0,1,"Private","Rural",8931,37.3,"formerly smoked",0
+"3860",7129,"Male",3,0,0,0,"children","Urban",10752,17.6,"Unknown",0
+"3864",60896,"Male",68,0,1,1,"Private","Rural",14525,31.5,"never smoked",0
+"3865",2109,"Female",8,0,0,0,"children","Urban",12514,29.7,"Unknown",0
+"3866",27705,"Female",82,0,1,1,"Self-employed","Rural",886,32.5,"Unknown",0
+"3869",43698,"Female",27,0,0,0,"Govt_job","Rural",6543,27.2,"Unknown",0
+"3873",60416,"Female",57,0,0,1,"Self-employed","Urban",10684,29.6,"never smoked",0
+"3876",11713,"Male",51,0,0,1,"Private","Rural",7707,32.1,"formerly smoked",0
+"3880",30129,"Female",62,0,0,1,"Govt_job","Urban",16317,25.6,"never smoked",0
+"3882",38549,"Female",62,0,0,1,"Private","Urban",21262,35.8,"never smoked",0
+"3884",50545,"Male",41,0,0,1,"Govt_job","Urban",841,29.3,"never smoked",0
+"3887",9912,"Male",39,0,0,1,"Private","Rural",10919,29.8,"Unknown",0
+"3889",38894,"Female",35,0,0,1,"Private","Urban",12015,27.3,"never smoked",0
+"3896",57765,"Female",41,0,0,1,"Govt_job","Rural",14608,29.9,"never smoked",0
+"3898",18398,"Female",42,0,0,1,"Private","Rural",10896,27.5,"never smoked",0
+"3900",52461,"Male",57,0,0,1,"Private","Urban",11108,27.9,"never smoked",0
+"3901",32523,"Male",68,0,1,1,"Private","Urban",21774,25.5,"Unknown",0
+"3904",13902,"Female",42,0,0,1,"Private","Urban",748,50.6,"Unknown",0
+"3906",34184,"Female",2,0,0,0,"children","Rural",7652,14.8,"Unknown",0
+"3910",28011,"Male",39,1,0,1,"Private","Rural",19736,27.4,"Unknown",0
+"3913",51823,"Male",72,0,0,1,"Self-employed","Urban",12308,25.4,"smokes",0
+"3917",26062,"Male",49,0,0,1,"Private","Rural",7804,37.9,"never smoked",0
+"3918",6805,"Male",57,0,0,0,"Private","Urban",10774,28.4,"Unknown",0
+"3919",45817,"Female",59,0,0,1,"Private","Rural",6064,20,"never smoked",0
+"3921",62167,"Female",47,0,0,1,"Private","Rural",11598,27.6,"Unknown",0
+"3922",16627,"Male",54,0,0,1,"Self-employed","Rural",11038,27.6,"formerly smoked",0
+"3924",71151,"Male",56,0,0,1,"Private","Urban",8264,31,"never smoked",0
+"3929",56139,"Male",8,0,0,0,"children","Urban",12966,19.2,"Unknown",0
+"3931",40980,"Male",79,1,0,1,"Self-employed","Urban",7204,23.6,"formerly smoked",0
+"3932",47668,"Female",49,0,0,1,"Private","Rural",12563,57.2,"Unknown",0
+"3933",72792,"Female",53,1,0,1,"Private","Rural",7794,33,"never smoked",0
+"3936",56450,"Male",25,0,0,0,"Private","Rural",6536,24.7,"never smoked",0
+"3943",51651,"Male",46,0,0,1,"Private","Rural",11446,24.7,"formerly smoked",0
+"3944",39940,"Female",33,0,0,1,"Private","Urban",6462,27.3,"never smoked",0
+"3947",67921,"Female",5,0,0,0,"children","Urban",5535,22.7,"Unknown",0
+"3964",67356,"Female",43,0,0,1,"Private","Urban",808,46.1,"never smoked",0
+"3969",33886,"Female",30,0,0,0,"Private","Rural",8712,31.1,"smokes",0
+"3971",31697,"Female",34,0,0,1,"Private","Urban",7642,27.6,"smokes",0
+"3977",13540,"Female",59,0,0,1,"Self-employed","Rural",11568,27.1,"Unknown",0
+"3978",44288,"Male",43,0,0,1,"Private","Rural",20737,29.5,"formerly smoked",0
+"3979",751,"Female",5,0,0,0,"children","Rural",751,20.7,"Unknown",0
+"3980",7047,"Female",31,0,0,1,"Private","Rural",6972,39.5,"smokes",0
+"3984",60602,"Female",49,0,0,1,"Govt_job","Urban",6868,28.8,"never smoked",0
+"3985",51856,"Male",38,1,0,1,"Private","Rural",569,92,"never smoked",0
+"3995",64670,"Female",55,0,0,1,"Govt_job","Urban",7179,43,"formerly smoked",0
+"3997",64931,"Male",37,0,0,1,"Private","Rural",13105,27.2,"never smoked",0
+"4001",14658,"Female",37,0,0,1,"Private","Rural",771,55.9,"Unknown",0
+"4005",63043,"Female",27,0,0,0,"Private","Urban",618,26.8,"formerly smoked",0
+"4009",36087,"Female",20,0,0,0,"Private","Rural",10365,17,"formerly smoked",0
+"4015",26935,"Female",50,1,0,1,"Private","Urban",21343,36.7,"smokes",0
+"4020",7653,"Female",33,0,0,0,"Private","Urban",8316,20.2,"Unknown",0
+"4022",70318,"Male",23,0,0,0,"Private","Rural",8806,25.3,"Unknown",0
+"4024",56692,"Female",65,0,0,1,"Self-employed","Urban",24824,27,"smokes",0
+"4027",14553,"Male",7,0,0,0,"children","Urban",7663,17.3,"Unknown",0
+"4030",41481,"Female",5,0,0,0,"children","Rural",6445,21.7,"Unknown",0
+"4031",24854,"Female",24,0,0,0,"Self-employed","Urban",7942,21.4,"never smoked",0
+"4032",22330,"Female",45,0,0,1,"Self-employed","Urban",8294,29.3,"Unknown",0
+"4034",36710,"Male",64,0,0,1,"Private","Urban",6221,28.3,"Unknown",0
+"4036",17098,"Female",12,0,0,0,"children","Urban",11606,25.9,"Unknown",0
+"4037",61384,"Male",81,1,0,1,"Private","Urban",11777,27.1,"never smoked",0
+"4044",2647,"Male",55,0,0,1,"Private","Rural",8035,28.7,"smokes",0
+"4046",50412,"Female",17,0,0,0,"Private","Urban",9647,25.6,"Unknown",0
+"4048",55361,"Female",36,0,0,1,"Self-employed","Urban",20206,24.4,"never smoked",0
+"4050",12963,"Female",29,0,0,0,"Self-employed","Rural",6756,19.6,"Unknown",0
+"4053",26025,"Female",45,0,0,1,"Govt_job","Urban",10322,20.5,"never smoked",0
+"4056",10696,"Female",52,0,0,1,"Private","Urban",8132,27.6,"formerly smoked",0
+"4057",52361,"Male",69,1,1,1,"Private","Urban",7811,34.7,"formerly smoked",0
+"4061",21407,"Male",39,0,0,1,"Private","Rural",11703,40.3,"formerly smoked",0
+"4062",34026,"Female",60,0,0,1,"Private","Rural",20784,38.9,"never smoked",0
+"4068",21677,"Female",64,0,0,1,"Private","Rural",7513,31.1,"formerly smoked",0
+"4070",25051,"Female",14,0,0,0,"Private","Rural",9132,24.3,"never smoked",0
+"4073",52172,"Female",44,0,0,1,"Private","Rural",8577,32.1,"Unknown",0
+"4077",34415,"Female",22,0,0,0,"Govt_job","Urban",7957,31.8,"Unknown",0
+"4078",53219,"Male",47,0,0,1,"Private","Urban",6398,26.8,"smokes",0
+"4080",72491,"Male",53,0,0,1,"Private","Urban",7466,29.2,"smokes",0
+"4082",52619,"Female",65,0,0,1,"Private","Rural",20578,41.7,"never smoked",0
+"4085",21067,"Female",45,0,0,1,"Self-employed","Urban",1101,30.9,"never smoked",0
+"4092",71143,"Male",65,0,0,1,"Self-employed","Urban",17967,30.7,"formerly smoked",0
+"4095",2818,"Female",80,0,0,0,"Self-employed","Rural",23074,30.2,"formerly smoked",0
+"4104",24783,"Female",28,0,0,0,"Private","Urban",8791,22.7,"formerly smoked",0
+"4105",22515,"Female",38,1,0,1,"Private","Rural",11855,38.4,"smokes",0
+"4109",2456,"Male",60,1,0,1,"Govt_job","Rural",1002,28.5,"smokes",0
+"4111",44662,"Female",45,0,0,1,"Govt_job","Rural",9524,40.2,"Unknown",0
+"4117",45325,"Female",29,0,0,0,"Private","Urban",6113,26,"never smoked",0
+"4118",31092,"Female",30,0,0,1,"Private","Urban",8856,45.3,"never smoked",0
+"4127",52681,"Female",39,0,0,1,"Private","Urban",25495,35.5,"smokes",0
+"4132",65966,"Female",16,0,0,0,"Private","Urban",8914,22.6,"formerly smoked",0
+"4135",11632,"Male",60,0,0,1,"Private","Urban",9602,28.7,"Unknown",0
+"4137",52247,"Female",75,0,0,1,"Govt_job","Urban",8968,38.7,"never smoked",0
+"4145",33560,"Female",81,0,1,1,"Govt_job","Urban",9011,28.6,"never smoked",0
+"4147",8553,"Female",58,0,0,1,"Govt_job","Rural",19574,32.7,"Unknown",0
+"4151",14444,"Female",37,0,0,0,"Self-employed","Urban",9071,45.8,"Unknown",0
+"4153",18578,"Male",11,0,0,0,"children","Rural",12166,16.7,"Unknown",0
+"4155",60981,"Female",26,0,0,0,"Private","Rural",13007,33.1,"never smoked",0
+"4159",63478,"Female",41,0,0,1,"Private","Urban",7634,28,"Unknown",0
+"4160",15464,"Female",71,1,1,1,"Private","Rural",22124,24.2,"Unknown",0
+"4163",63804,"Female",27,0,0,0,"Private","Rural",5593,20.3,"smokes",0
+"4171",14996,"Male",66,0,0,1,"Self-employed","Rural",8598,28,"Unknown",0
+"4174",1552,"Male",73,0,0,1,"Private","Urban",10158,35.9,"never smoked",0
+"4175",68853,"Female",70,0,0,1,"Private","Rural",1498,47.6,"Unknown",0
+"4183",28382,"Male",21,0,0,0,"Private","Urban",7381,19.8,"Unknown",0
+"4184",13768,"Female",38,0,0,1,"Private","Urban",772,23.4,"Unknown",0
+"4187",6422,"Female",48,0,0,1,"Self-employed","Urban",10851,33.3,"Unknown",0
+"4196",61667,"Female",61,0,0,1,"Private","Rural",14414,29.8,"never smoked",0
+"4199",60964,"Female",71,1,0,1,"Govt_job","Rural",10572,29.1,"formerly smoked",0
+"4200",72562,"Female",57,0,0,1,"Private","Rural",6437,32.8,"never smoked",0
+"4201",63773,"Female",13,0,0,0,"children","Rural",1461,22.8,"never smoked",0
+"4202",53998,"Female",21,0,0,0,"Private","Urban",5866,31.3,"never smoked",0
+"4204",54117,"Male",7,0,0,0,"children","Rural",1035,19,"Unknown",0
+"4205",5987,"Female",78,0,0,1,"Private","Urban",8942,24.1,"never smoked",0
+"4206",72215,"Female",66,0,0,1,"Self-employed","Rural",21292,21.4,"never smoked",0
+"4209",65636,"Male",55,0,0,1,"Private","Urban",8226,28.7,"Unknown",0
+"4211",27859,"Male",51,0,0,1,"Private","Rural",8695,25,"formerly smoked",0
+"4216",41942,"Female",37,0,0,1,"Private","Urban",24787,42.6,"never smoked",0
+"4219",65103,"Female",59,0,0,1,"Private","Urban",8151,25.6,"formerly smoked",0
+"4223",53821,"Male",18,0,0,0,"Private","Rural",10047,31.9,"never smoked",0
+"4226",41654,"Male",3,0,0,0,"children","Rural",1102,21.8,"Unknown",0
+"4227",5714,"Female",49,1,0,1,"Govt_job","Rural",989,35.5,"never smoked",0
+"4237",22151,"Female",28,0,0,0,"Govt_job","Rural",7799,32,"smokes",0
+"4238",47802,"Male",28,0,0,0,"Private","Urban",25674,23.4,"formerly smoked",0
+"4242",16629,"Female",29,0,0,1,"Private","Urban",11208,27.4,"never smoked",0
+"4243",60675,"Female",48,1,0,1,"Govt_job","Rural",22108,57.2,"never smoked",0
+"4245",64864,"Male",63,1,0,1,"Private","Rural",6017,23.5,"smokes",0
+"4247",23568,"Female",40,0,0,1,"Private","Urban",15324,38.2,"Unknown",0
+"4249",66006,"Female",43,0,0,1,"Private","Urban",8667,33.3,"never smoked",0
+"4250",40447,"Female",59,0,0,1,"Private","Rural",8242,28.8,"never smoked",0
+"4251",62798,"Female",78,1,0,1,"Private","Rural",10054,32.1,"smokes",0
+"4256",5170,"Male",42,0,0,1,"Govt_job","Rural",6797,23.8,"Unknown",0
+"4257",16263,"Female",36,0,0,1,"Self-employed","Urban",7792,24.9,"Unknown",0
+"4259",47057,"Male",55,0,0,1,"Self-employed","Urban",7647,30.6,"Unknown",0
+"4263",30734,"Male",15,0,0,0,"children","Rural",9424,30.2,"Unknown",0
+"4264",72184,"Female",43,0,0,1,"Self-employed","Urban",8973,23.5,"formerly smoked",0
+"4265",37440,"Male",52,0,0,1,"Govt_job","Urban",20839,36,"formerly smoked",0
+"4268",13598,"Male",60,0,0,1,"Self-employed","Urban",22723,40,"formerly smoked",0
+"4274",11816,"Female",46,0,0,1,"Self-employed","Urban",7112,27.3,"never smoked",0
+"4278",10950,"Female",2,0,0,0,"children","Urban",11275,25.1,"Unknown",0
+"4279",21830,"Female",82,0,0,1,"Private","Urban",8263,17.9,"smokes",0
+"4282",46670,"Female",75,1,0,1,"Self-employed","Rural",19706,26.1,"never smoked",0
+"4285",68789,"Female",28,0,0,0,"Private","Urban",6244,37.2,"Unknown",0
+"4286",56254,"Female",25,0,0,0,"Private","Rural",10882,41.3,"smokes",0
+"4288",59908,"Female",11,0,0,0,"children","Rural",12115,26.1,"Unknown",0
+"4289",34130,"Male",54,1,0,1,"Private","Rural",11644,24.5,"never smoked",0
+"4291",71622,"Female",56,0,0,1,"Private","Urban",14433,29.2,"never smoked",0
+"4294",24736,"Female",4,0,0,0,"children","Urban",9427,14,"Unknown",0
+"4295",8920,"Female",51,0,0,1,"Self-employed","Rural",7635,33.5,"formerly smoked",0
+"4297",70615,"Female",56,0,0,1,"Govt_job","Urban",17914,35.3,"Unknown",0
+"4301",49053,"Female",45,0,0,0,"Private","Rural",12056,31.6,"never smoked",0
+"4305",4929,"Male",8,0,0,0,"children","Urban",7848,16.1,"Unknown",0
+"4309",32126,"Female",56,0,1,1,"Private","Urban",9189,23.3,"smokes",0
+"4310",56322,"Male",49,0,1,1,"Govt_job","Rural",8897,32.6,"never smoked",0
+"4315",53426,"Male",49,0,0,1,"Private","Rural",5842,32.8,"formerly smoked",0
+"4317",65351,"Male",11,0,0,0,"children","Urban",14184,23.3,"Unknown",0
+"4320",69059,"Female",42,0,0,1,"Private","Urban",863,20.1,"never smoked",0
+"4327",6605,"Male",52,1,0,1,"Govt_job","Urban",23506,39.9,"formerly smoked",0
+"4331",52960,"Female",56,0,0,1,"Self-employed","Urban",9814,32.7,"formerly smoked",0
+"4336",34416,"Male",23,0,0,0,"Private","Urban",7434,23.5,"never smoked",0
+"4338",20237,"Male",15,0,0,0,"Private","Urban",1049,27.4,"never smoked",0
+"4342",66786,"Female",53,0,0,1,"Private","Rural",9414,27.7,"smokes",0
+"4348",71846,"Female",76,0,0,1,"Govt_job","Urban",22364,27.1,"smokes",0
+"4361",15061,"Male",40,0,0,1,"Govt_job","Rural",7284,26.1,"Unknown",0
+"4366",50804,"Male",2,0,0,0,"children","Rural",6584,16.1,"Unknown",0
+"4368",41970,"Male",30,0,0,0,"Private","Urban",10603,26.7,"Unknown",0
+"4376",72725,"Female",26,0,0,0,"Govt_job","Urban",5967,24.5,"smokes",0
+"4378",23599,"Female",30,0,0,0,"Private","Urban",10508,25.5,"never smoked",0
+"4384",60226,"Female",35,0,0,1,"Private","Urban",76,37.9,"Unknown",0
+"4391",21678,"Male",33,0,0,1,"Private","Urban",9073,32.8,"smokes",0
+"4393",38658,"Female",62,0,0,1,"Self-employed","Rural",21392,44.6,"never smoked",0
+"4395",28803,"Male",31,0,0,1,"Private","Urban",7981,26.4,"never smoked",0
+"4397",12812,"Female",53,0,0,1,"Private","Rural",102,32.4,"never smoked",0
+"4404",44447,"Male",49,0,0,1,"Private","Urban",5819,29.6,"smokes",0
+"4407",65038,"Female",33,0,0,1,"Private","Rural",571,33.1,"never smoked",0
+"4418",27623,"Female",59,0,0,1,"Private","Urban",2008,32.3,"Unknown",0
+"4419",70823,"Female",10,0,0,0,"children","Urban",5728,15.4,"never smoked",0
+"4422",24711,"Female",55,0,0,1,"Govt_job","Urban",9944,25,"formerly smoked",0
+"4427",6264,"Male",32,0,0,1,"Private","Rural",7234,32.2,"Unknown",0
+"4432",41210,"Male",44,0,0,0,"Self-employed","Urban",10576,32.4,"formerly smoked",0
+"4435",15387,"Male",19,0,0,0,"Private","Rural",796,36.7,"Unknown",0
+"4437",49833,"Female",42,0,0,1,"Govt_job","Rural",11298,37.2,"formerly smoked",0
+"4438",43773,"Male",8,0,0,0,"children","Urban",6107,19.1,"Unknown",0
+"4439",53095,"Male",8,0,0,0,"children","Rural",6343,21.8,"Unknown",0
+"4442",55545,"Female",66,0,0,1,"Self-employed","Rural",7488,32.6,"never smoked",0
+"4443",60899,"Female",47,0,0,1,"Private","Urban",12243,23.9,"never smoked",0
+"4445",11843,"Female",65,0,0,1,"Self-employed","Rural",8042,29.4,"formerly smoked",0
+"4446",3609,"Male",78,0,0,1,"Private","Urban",8044,29,"never smoked",0
+"4451",40041,"Male",31,0,0,0,"Self-employed","Rural",6485,23,"Unknown",0
+"4452",6924,"Female",32,0,0,1,"Private","Rural",10287,26.6,"smokes",0
+"4454",25878,"Male",55,0,0,1,"Self-employed","Rural",9768,47.1,"formerly smoked",0
+"4457",46514,"Female",50,0,0,1,"Govt_job","Urban",10093,32.7,"never smoked",0
+"4458",67466,"Male",63,1,0,1,"Private","Urban",23278,31.8,"formerly smoked",0
+"4462",47216,"Male",47,0,0,1,"Private","Rural",11014,30.5,"smokes",0
+"4465",8037,"Male",44,0,1,0,"Govt_job","Urban",9462,34.4,"Unknown",0
+"4466",23911,"Female",39,0,0,0,"Private","Rural",8957,48.1,"never smoked",0
+"4471",41930,"Male",15,0,0,0,"Private","Rural",14415,24.1,"never smoked",0
+"4478",68417,"Female",19,0,0,0,"Private","Rural",667,24.7,"never smoked",0
+"4482",15282,"Female",77,0,0,1,"Private","Rural",9096,31.5,"formerly smoked",0
+"4485",69284,"Female",81,1,0,1,"Self-employed","Urban",17454,26.4,"never smoked",0
+"4494",7529,"Male",67,0,0,1,"Private","Rural",8316,25.5,"formerly smoked",0
+"4495",54022,"Female",78,0,0,1,"Self-employed","Rural",679,35.3,"never smoked",0
+"4497",50605,"Female",35,0,0,1,"Private","Rural",12394,28.7,"never smoked",0
+"4503",5319,"Male",48,0,0,1,"Private","Rural",9824,34.6,"never smoked",0
+"4504",51100,"Male",62,0,0,1,"Govt_job","Rural",662,30,"Unknown",0
+"4505",163,"Female",20,0,0,0,"Private","Rural",9467,28.8,"Unknown",0
+"4507",52882,"Female",60,0,0,1,"Govt_job","Rural",11179,23.6,"smokes",0
+"4512",808,"Female",16,0,0,0,"Private","Rural",8754,37.8,"never smoked",0
+"4513",61881,"Male",56,0,0,0,"Self-employed","Urban",13987,31.2,"smokes",0
+"4514",41600,"Male",52,0,0,1,"Private","Rural",6792,31.1,"never smoked",0
+"4515",12786,"Female",59,0,0,1,"Private","Urban",8362,34.2,"Unknown",0
+"4516",11935,"Female",9,0,0,0,"children","Rural",11097,17.7,"Unknown",0
+"4517",44655,"Female",34,0,0,1,"Private","Rural",7053,39.2,"never smoked",0
+"4526",2578,"Male",16,0,0,0,"Govt_job","Rural",7848,22.6,"never smoked",0
+"4531",26250,"Male",17,0,0,0,"Self-employed","Urban",11385,22.9,"Unknown",0
+"4532",13960,"Female",18,0,0,0,"Never_worked","Urban",9765,21.5,"Unknown",0
+"4535",50763,"Male",42,0,0,1,"Govt_job","Urban",5835,24.3,"never smoked",0
+"4542",53896,"Female",23,0,0,0,"Private","Rural",16536,21.9,"smokes",0
+"4547",26305,"Male",29,0,0,0,"Self-employed","Rural",9677,30.3,"formerly smoked",0
+"4550",43803,"Female",64,0,0,1,"Private","Urban",6563,33.5,"smokes",0
+"4559",40850,"Female",74,0,0,1,"Govt_job","Urban",11194,21.7,"never smoked",0
+"4561",37029,"Male",5,0,0,0,"children","Rural",9764,17,"Unknown",0
+"4566",47662,"Female",36,0,0,0,"Self-employed","Urban",5783,21.6,"smokes",0
+"4567",58495,"Male",34,0,0,1,"Private","Rural",8408,32.9,"never smoked",0
+"4571",41875,"Female",45,0,0,1,"Private","Urban",714,28.4,"smokes",0
+"4573",40387,"Female",17,0,0,0,"Private","Rural",7746,24,"Unknown",0
+"4574",43208,"Female",19,0,0,0,"Private","Urban",9685,23.4,"Unknown",0
+"4575",54324,"Female",54,1,0,0,"Govt_job","Urban",18222,32.6,"formerly smoked",0
+"4578",48118,"Female",82,0,0,1,"Self-employed","Urban",11345,30.3,"never smoked",0
+"4584",66014,"Female",14,0,0,0,"children","Urban",718,18.8,"Unknown",0
+"4587",42091,"Male",32,0,0,1,"Govt_job","Rural",8301,25.8,"smokes",0
+"4594",35446,"Male",73,0,0,1,"Govt_job","Rural",20869,30,"Unknown",0
+"4596",5131,"Female",51,0,0,1,"Private","Urban",10772,60.9,"Unknown",0
+"4604",52978,"Female",30,0,0,1,"Private","Urban",8492,47.8,"never smoked",0
+"4612",42563,"Female",57,1,1,1,"Private","Rural",23172,45.7,"formerly smoked",0
+"4614",27922,"Male",32,0,0,1,"Private","Rural",10213,32.3,"never smoked",0
+"4616",54162,"Male",43,0,0,1,"Private","Rural",6622,34.4,"Unknown",0
+"4619",68601,"Female",18,0,0,0,"Private","Urban",6792,19.4,"never smoked",0
+"4625",72715,"Female",50,0,1,1,"Private","Urban",1938,26.4,"never smoked",0
+"4628",13583,"Female",5,0,0,0,"children","Rural",8844,18,"Unknown",0
+"4630",11898,"Female",41,0,0,1,"Private","Urban",8706,30,"never smoked",0
+"4631",14785,"Female",41,0,0,1,"Private","Rural",9264,43.8,"never smoked",0
+"4634",30658,"Male",16,0,0,0,"children","Rural",8244,32.6,"Unknown",0
+"4636",65376,"Female",65,0,0,1,"Self-employed","Urban",9544,25.5,"smokes",0
+"4638",38441,"Female",58,0,0,1,"Private","Urban",6545,32.1,"never smoked",0
+"4639",22147,"Female",74,0,0,1,"Private","Urban",20301,25.4,"never smoked",0
+"4641",19165,"Male",33,0,0,1,"Private","Urban",8312,23.4,"Unknown",0
+"4642",60562,"Female",21,0,0,0,"Private","Rural",5512,21.8,"never smoked",0
+"4644",39936,"Female",49,0,0,1,"Private","Rural",6157,37.9,"formerly smoked",0
+"4648",24299,"Male",54,1,0,1,"Self-employed","Rural",9799,32.3,"smokes",0
+"4650",53323,"Female",34,0,0,0,"Govt_job","Urban",796,46.3,"never smoked",0
+"4652",53028,"Female",39,0,0,1,"Private","Rural",8131,34.7,"never smoked",0
+"4656",34084,"Male",7,0,0,0,"children","Urban",7712,18.6,"Unknown",0
+"4658",65333,"Female",31,0,0,1,"Private","Rural",9603,24.1,"Unknown",0
+"4660",22417,"Female",5,0,0,0,"children","Rural",8093,24.8,"Unknown",0
+"4663",39708,"Male",55,0,0,1,"Private","Rural",5687,28.9,"formerly smoked",0
+"4667",44813,"Female",34,0,0,0,"Private","Rural",6906,29,"smokes",0
+"4675",11962,"Male",36,0,0,1,"Private","Urban",8933,30.7,"never smoked",0
+"4678",72186,"Female",15,0,0,0,"Private","Rural",8219,40.5,"never smoked",0
+"4680",25931,"Female",71,0,0,1,"Self-employed","Urban",20831,31.8,"formerly smoked",0
+"4683",65469,"Male",11,0,0,0,"children","Rural",12171,23.4,"never smoked",0
+"4684",29487,"Male",72,0,0,0,"children","Urban",8008,16.4,"Unknown",0
+"4689",47691,"Male",16,0,0,0,"Private","Rural",9723,30.6,"never smoked",0
+"4691",70058,"Female",62,1,0,1,"Self-employed","Urban",10369,35.2,"smokes",0
+"4692",61868,"Female",62,0,0,1,"Private","Urban",7412,21.8,"formerly smoked",0
+"4698",9731,"Male",13,0,0,0,"children","Urban",8798,19.8,"Unknown",0
+"4699",24009,"Male",4,0,0,0,"children","Urban",9423,16.2,"Unknown",0
+"4701",7453,"Female",44,0,0,1,"Private","Urban",8407,21.2,"smokes",0
+"4702",66405,"Female",31,0,0,1,"Private","Urban",11731,28.4,"never smoked",0
+"4706",68094,"Female",46,0,0,1,"Private","Rural",12492,28.8,"Unknown",0
+"4712",55410,"Female",50,0,0,1,"Self-employed","Urban",6263,23.4,"never smoked",0
+"4713",63287,"Female",49,0,0,1,"Private","Urban",7793,39.1,"smokes",0
+"4715",20274,"Male",47,0,0,1,"Private","Urban",10669,31.2,"Unknown",0
+"4716",50338,"Female",34,0,0,1,"Private","Urban",8307,28,"formerly smoked",0
+"4718",20634,"Female",11,0,0,0,"children","Urban",9265,15.7,"never smoked",0
+"4723",8145,"Male",30,0,0,0,"Private","Urban",8621,28.8,"smokes",0
+"4724",39393,"Female",63,0,0,1,"Private","Urban",5706,37.9,"never smoked",0
+"4728",42297,"Female",36,0,0,1,"Private","Urban",12431,26.4,"Unknown",0
+"4732",23757,"Female",60,0,0,0,"Private","Urban",10548,28.4,"Unknown",0
+"4740",30525,"Female",79,0,0,1,"Govt_job","Urban",9542,21.5,"formerly smoked",0
+"4741",25860,"Female",11,0,0,0,"children","Rural",12304,15.9,"Unknown",0
+"4744",64652,"Female",44,0,0,1,"Private","Rural",5685,24.4,"never smoked",0
+"4748",6976,"Female",40,0,0,1,"Private","Urban",9397,23.6,"never smoked",0
+"4751",14189,"Male",18,0,0,0,"Private","Rural",8337,24.4,"Unknown",0
+"4753",56328,"Female",70,0,0,1,"Private","Rural",21287,34.8,"never smoked",0
+"4758",70593,"Female",38,0,0,1,"Private","Rural",18343,38.1,"formerly smoked",0
+"4762",58635,"Female",72,0,0,1,"Self-employed","Urban",7417,35.5,"formerly smoked",0
+"4771",37713,"Male",29,0,0,1,"Private","Urban",18527,31.3,"never smoked",0
+"4783",67465,"Female",20,0,0,0,"Private","Rural",11759,17.1,"never smoked",0
+"4787",57159,"Male",56,0,0,1,"Self-employed","Rural",12587,24.6,"never smoked",0
+"4790",5121,"Male",30,0,0,1,"Private","Urban",9684,21.1,"Unknown",0
+"4792",40220,"Male",32,0,0,0,"Private","Rural",10065,26.2,"formerly smoked",0
+"4795",19801,"Female",44,0,0,1,"Private","Rural",983,25,"never smoked",0
+"4799",15581,"Male",5,0,0,0,"children","Urban",10187,19.3,"Unknown",0
+"4802",43496,"Female",46,0,0,1,"Govt_job","Urban",5584,27.8,"never smoked",0
+"4806",38349,"Female",49,0,0,1,"Govt_job","Urban",6992,47.6,"never smoked",0
+"4808",64420,"Female",61,0,0,1,"Govt_job","Rural",12023,22.7,"Unknown",0
+"4811",11184,"Female",82,0,0,1,"Self-employed","Rural",21158,36.9,"never smoked",0
+"4812",68967,"Male",39,0,0,1,"Private","Urban",17938,27.7,"Unknown",0
+"4813",66684,"Male",70,0,0,1,"Self-employed","Rural",19388,24.3,"Unknown",0
+"4815",40112,"Female",37,0,0,0,"Private","Urban",11841,25.1,"never smoked",0
+"4819",62425,"Female",5,0,0,0,"children","Urban",6198,16.8,"Unknown",0
+"4823",30379,"Female",52,0,0,1,"Govt_job","Urban",104,25.6,"smokes",0
+"4828",22691,"Female",29,0,0,1,"Self-employed","Urban",9052,28,"never smoked",0
+"4829",37680,"Male",55,0,0,1,"Govt_job","Rural",10835,40.8,"formerly smoked",0
+"4832",29540,"Male",67,0,0,1,"Private","Rural",9704,26.9,"smokes",0
+"4835",26214,"Female",63,0,0,1,"Self-employed","Rural",7593,34.7,"formerly smoked",0
+"4840",56799,"Male",76,0,0,1,"Govt_job","Urban",8235,38.9,"never smoked",0
+"4842",41512,"Male",57,0,0,1,"Govt_job","Rural",7662,28.2,"never smoked",0
+"4844",579,"Male",9,0,0,0,"children","Urban",7188,17.5,"Unknown",0
+"4847",45010,"Female",57,0,0,1,"Private","Rural",7793,21.7,"never smoked",0
+"4848",22127,"Female",18,0,0,0,"Private","Urban",8285,46.9,"Unknown",0
+"4849",14180,"Female",13,0,0,0,"children","Rural",10308,18.6,"Unknown",0
+"4850",44873,"Female",81,0,0,1,"Self-employed","Urban",1252,40,"never smoked",0
