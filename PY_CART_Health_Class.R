@@ -18,6 +18,8 @@ df1$work_type<-as.factor(df1$work_type) #CONVERT TO FACTOR
 df1$Residence_type<-as.factor(df1$Residence_type) #CONVERT TO FACTOR
 df1$smoking_status<-as.factor(df1$smoking_status) #CONVERT TO FACTOR
 df1$stroke<-as.factor(df1$stroke) #CONVERT TO FACTOR
+#df1$avg_glucose_level<-as.numeric(df1$avg_glucose_level) #CONVERT TO NUMERIC
+#df1$bmi<-as.numeric(df1$bmi) #CONVERT TO NUMERIC
 
 summary(df1)#examine the data summary
 #####Keep bootstrapping stroke data until it is 50% of data###############
@@ -51,9 +53,9 @@ train<-training(split)
 test<-testing(split)
 
 #SPECIFYING THE CLASSIFICATION TREE MODEL
-class_spec <- decision_tree(min_n = 5 , #minimum number of observations for split
+class_spec <- decision_tree(min_n = 3 , #minimum number of observations for split
                             tree_depth = 30, #max tree depth
-                            cost_complexity = 0.1)  %>% #regularization parameter
+                            cost_complexity = 0.01)  %>% #regularization parameter
               set_engine("rpart") %>%
               set_mode("classification")
 print(class_spec)
@@ -61,7 +63,7 @@ print(class_spec)
 #ESTIMATING THE MODEL (CAN BE DONE IN ONE STEP ABOVE WITH EXTRA %>%)
 #gender + age + hypertension + heart_disease + ever_married + work_type + Residence_type + avg_glucose_level + bmi + smoking_status
 class_tree <- class_spec %>%
-  fit(formula = stroke ~ heart_disease, 
+  fit(formula = stroke ~ gender + age + hypertension + heart_disease + avg_glucose_level + bmi + smoking_status, 
       data = train)
 print(class_tree)
 
