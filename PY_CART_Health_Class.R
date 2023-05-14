@@ -8,7 +8,7 @@ library(caret) #FOR confusionMatrix()
 library(rpart.plot)
 
 #IMPORTING THE DATA
-df1 <- read.csv("https://raw.githubusercontent.com/paulsd2023/bigdata/main/HealthDataTraining70.csv", header=TRUE)
+df1 <- read.csv("https://raw.githubusercontent.com/paulsd2023/bigdata/main/HealthDataTrainingClean70.csv", header=TRUE)
 
 df1$gender<-as.factor(df1$gender) #CONVERT TO FACTOR
 df1$hypertension<-as.factor(df1$hypertension) #CONVERT TO FACTOR
@@ -20,15 +20,33 @@ df1$smoking_status<-as.factor(df1$smoking_status) #CONVERT TO FACTOR
 df1$stroke<-as.factor(df1$stroke) #CONVERT TO FACTOR
 
 summary(df1)#examine the data summary
+#####Keep bootstrapping stroke data until it is 50% of data###############
+strokes <- factor(c(df1$stroke))
+stroke_counts <- table(strokes)
+stroke_yes <- "1"
+stroke_no <- "0"
+count_stroke <- stroke_counts[stroke_yes]
+num_stroke <- as.numeric(count_stroke)
+count_no_stroke <- stroke_counts[stroke_no]
+num_no_stroke <- as.numeric(count_no_stroke)
+
 df_stroke <- df1[df1$stroke == 1,]#select stroke data
-df_stroke_weighted <- rbind(df1,df_stroke)#combine dataframes to increase stroke numbers
-summary(df_stroke_weighted)
-df_stroke_2weighted <- rbind(df_stroke_weighted,df_stroke)
-summary(df_stroke_2weighted)
+
+while (num_no_stroke > num_stroke){
+  df1 <- rbind(df1,df_stroke)  #add more stroke data to increase stroke numbers
+  strokes <- factor(c(df1$stroke))
+  stroke_counts <- table(strokes)
+  stroke_yes <- "1"
+  stroke_no <- "0"
+  count_stroke <- stroke_counts[stroke_yes]
+  num_stroke <- as.numeric(count_stroke)
+  count_no_stroke <- stroke_counts[stroke_no]
+  num_no_stroke <- as.numeric(count_no_stroke)
+  }
 
 ##PARTITIONING THE DATA##
 set.seed(123)
-split<-initial_split(df_stroke_2weighted, prop=.9, strata=stroke)
+split<-initial_split(df1, prop=.9, strata=stroke)
 train<-training(split)
 test<-testing(split)
 
